@@ -1,0 +1,892 @@
+"","CUSTOMERID","SUCCESS","DESCRIPTION","SEATCLASS","GUESTS","FARE","Prefix","Firstname","LastName","Age","GENDER","MinAdlt","Yearborn"
+"2","1","NO","Braund, Mr. Owen Harris;22","3","1","7.25"," mr","owen","braund",22,"Male","Adult",1996
+"3","2","YES","Cumings, Mrs. John Bradley (Florence Briggs Thayer);38","1","1","71.2833"," mrs","john","cumings",38,"Female","Adult",1980
+"4","3","YES","Heikkinen, Miss. Laina;26","3","0","7.925"," miss","laina","heikkinen",26,"Female","Adult",1992
+"5","4","YES","Futrelle, Mrs. Jacques Heath (Lily May Peel);35","1","1","53.1"," mrs","jacques","futrelle",35,"Female","Adult",1983
+"6","5","NO","Allen, Mr. William Henry;35","3","0","8.05"," mr","william","allen",35,"Male","Adult",1983
+"7","6","NO","Moran, Mr. James;","3","0","8.4583"," mr","james","moran",30,"Male","Adult",1988
+"8","7","NO","McCarthy, Mr. Timothy J;54","1","0","51.8625"," mr","timothy","mccarthy",54,"Male","Adult",1964
+"9","8","NO","Palsson, Master. Gosta Leonard;2","3","3","21.075"," master","gosta","palsson",2,"Male","Minor",2016
+"10","9","YES","Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg);27","3","0","11.1333"," mrs","oscar","johnson",27,"Female","Adult",1991
+"11","10","YES","Nasser, Mrs. Nicholas (Adele Achem);14","2","1","30.0708"," mrs","nicholas","nasser",14,"Female","Minor",2004
+"12","11","YES","Sandstrom, Miss. Marguerite Rut;4","3","1","16.7"," miss","marguerite","sandstrom",4,"Female","Minor",2014
+"13","12","YES","Bonnell, Miss. Elizabeth;58","1","0","26.55"," miss","elizabeth","bonnell",58,"Female","Adult",1960
+"14","13","NO","Saundercock, Mr. William Henry;20","3","0","8.05"," mr","william","saundercock",20,"Male","Adult",1998
+"15","14","NO","Andersson, Mr. Anders Johan;39","3","1","31.275"," mr","anders","andersson",39,"Male","Adult",1979
+"16","15","NO","Vestrom, Miss. Hulda Amanda Adolfina;14","3","0","7.8542"," miss","hulda","vestrom",14,"Female","Minor",2004
+"17","16","YES","Hewlett, Mrs. (Mary D Kingcome) ;55","2","0","16"," mrs","(mary","hewlett",55,"Female","Adult",1963
+"18","17","NO","Rice, Master. Eugene;2","3","4","29.125"," master","eugene","rice",2,"Male","Minor",2016
+"19","18","YES","Williams, Mr. Charles Eugene;","2","0","13"," mr","charles","williams",30,"Male","Adult",1988
+"20","19","NO","Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele);31","3","1","18"," mrs","julius","vander planke",31,"Female","Adult",1987
+"21","20","YES","Masselmani, Mrs. Fatima;","3","0","7.225"," mrs","fatima","masselmani",30,"Female","Adult",1988
+"22","21","NO","Fynney, Mr. Joseph J;35","2","0","26"," mr","joseph","fynney",35,"Male","Adult",1983
+"23","22","YES","Beesley, Mr. Lawrence;34","2","0","13"," mr","lawrence","beesley",34,"Male","Adult",1984
+"24","23","YES","McGowan, Miss. Anna ""Annie"";15","3","0","8.0292"," miss","anna","mcgowan",15,"Female","Minor",2003
+"25","24","YES","Sloper, Mr. William Thompson;28","1","0","35.5"," mr","william","sloper",28,"Male","Adult",1990
+"26","25","NO","Palsson, Miss. Torborg Danira;8","3","3","21.075"," miss","torborg","palsson",8,"Female","Minor",2010
+"27","26","YES","Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson);38","3","1","31.3875"," mrs","carl","asplund",38,"Female","Adult",1980
+"28","27","NO","Emir, Mr. Farred Chehab;","3","0","7.225"," mr","farred","emir",30,"Male","Adult",1988
+"29","28","NO","Fortune, Mr. Charles Alexander;19","1","3","263"," mr","charles","fortune",19,"Male","Adult",1999
+"30","29","YES","O'Dwyer, Miss. Ellen ""Nellie"";","3","0","7.8792"," miss","ellen","o'dwyer",30,"Female","Adult",1988
+"31","30","NO","Todoroff, Mr. Lalio;","3","0","7.8958"," mr","lalio","todoroff",30,"Male","Adult",1988
+"32","31","NO","Uruchurtu, Don. Manuel E;40","1","0","27.7208"," don","manuel","uruchurtu",40,"Male","Adult",1978
+"33","32","YES","Spencer, Mrs. William Augustus (Marie Eugenie);","1","1","146.5208"," mrs","william","spencer",30,"Female","Adult",1988
+"34","33","YES","Glynn, Miss. Mary Agatha;","3","0","7.75"," miss","mary","glynn",30,"Female","Adult",1988
+"35","34","NO","Wheadon, Mr. Edward H;66","2","0","10.5"," mr","edward","wheadon",66,"Male","Adult",1952
+"36","35","NO","Meyer, Mr. Edgar Joseph;28","1","1","82.1708"," mr","edgar","meyer",28,"Male","Adult",1990
+"37","36","NO","Holverson, Mr. Alexander Oskar;42","1","1","52"," mr","alexander","holverson",42,"Male","Adult",1976
+"38","37","YES","Mamee, Mr. Hanna;","3","0","7.2292"," mr","hanna","mamee",30,"Male","Adult",1988
+"39","38","NO","Cann, Mr. Ernest Charles;21","3","0","8.05"," mr","ernest","cann",21,"Male","Adult",1997
+"40","39","NO","Vander Planke, Miss. Augusta Maria;18","3","2","18"," miss","augusta","vander planke",18,"Female","Minor",2000
+"41","40","YES","Nicola-Yarred, Miss. Jamila;14","3","1","11.2417"," miss","jamila","nicola-yarred",14,"Female","Minor",2004
+"42","41","NO","Ahlin, Mrs. Johan (Johanna Persdotter Larsson);40","3","1","9.475"," mrs","johan","ahlin",40,"Female","Adult",1978
+"43","42","NO","Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott);27","2","1","21"," mrs","william","turpin",27,"Female","Adult",1991
+"44","43","NO","Kraeff, Mr. Theodor;","3","0","7.8958"," mr","theodor","kraeff",30,"Male","Adult",1988
+"45","44","YES","Laroche, Miss. Simonne Marie Anne Andree;3","2","1","41.5792"," miss","simonne","laroche",3,"Female","Minor",2015
+"46","45","YES","Devaney, Miss. Margaret Delia;19","3","0","7.8792"," miss","margaret","devaney",19,"Female","Adult",1999
+"47","46","NO","Rogers, Mr. William John;","3","0","8.05"," mr","william","rogers",30,"Male","Adult",1988
+"48","47","NO","Lennon, Mr. Denis;","3","1","15.5"," mr","denis","lennon",30,"Male","Adult",1988
+"49","48","YES","O'Driscoll, Miss. Bridget;","3","0","7.75"," miss","bridget","o'driscoll",30,"Female","Adult",1988
+"50","49","NO","Samaan, Mr. Youssef;","3","2","21.6792"," mr","youssef","samaan",30,"Male","Adult",1988
+"51","50","NO","Arnold-Franchi, Mrs. Josef (Josefine Franchi);18","3","1","17.8"," mrs","josef","arnold-franchi",18,"Female","Minor",2000
+"52","51","NO","Panula, Master. Juha Niilo;7","3","4","39.6875"," master","juha","panula",7,"Male","Minor",2011
+"53","52","NO","Nosworthy, Mr. Richard Cater;21","3","0","7.8"," mr","richard","nosworthy",21,"Male","Adult",1997
+"54","53","YES","Harper, Mrs. Henry Sleeper (Myna Haxtun);49","1","1","76.7292"," mrs","henry","harper",49,"Female","Adult",1969
+"55","54","YES","Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson);29","2","1","26"," mrs","lizzie","faunthorpe",29,"Female","Adult",1989
+"56","55","NO","Ostby, Mr. Engelhart Cornelius;65","1","0","61.9792"," mr","engelhart","ostby",65,"Male","Adult",1953
+"57","56","YES","Woolner, Mr. Hugh;","1","0","35.5"," mr","hugh","woolner",30,"Male","Adult",1988
+"58","57","YES","Rugg, Miss. Emily;21","2","0","10.5"," miss","emily","rugg",21,"Female","Adult",1997
+"59","58","NO","Novel, Mr. Mansouer;28.5","3","0","7.2292"," mr","mansouer","novel",28.5,"Male","Adult",1989
+"60","59","YES","West, Miss. Constance Mirium;5","2","1","27.75"," miss","constance","west",5,"Female","Minor",2013
+"61","60","NO","Goodwin, Master. William Frederick;11","3","5","46.9"," master","william","goodwin",11,"Male","Minor",2007
+"62","61","NO","Sirayanian, Mr. Orsen;22","3","0","7.2292"," mr","orsen","sirayanian",22,"Male","Adult",1996
+"63","62","YES","Icard, Miss. Amelie;38","1","0","80"," miss","amelie","icard",38,"Female","Adult",1980
+"64","63","NO","Harris, Mr. Henry Birkhardt;45","1","1","83.475"," mr","henry","harris",45,"Male","Adult",1973
+"65","64","NO","Skoog, Master. Harald;4","3","3","27.9"," master","harald","skoog",4,"Male","Minor",2014
+"66","65","NO","Stewart, Mr. Albert A;","1","0","27.7208"," mr","albert","stewart",30,"Male","Adult",1988
+"67","66","YES","Moubarek, Master. Gerios;","3","1","15.2458"," master","gerios","moubarek",30,"Male","Adult",1988
+"68","67","YES","Nye, Mrs. (Elizabeth Ramell);29","2","0","10.5"," mrs","(elizabeth","nye",29,"Female","Adult",1989
+"69","68","NO","Crease, Mr. Ernest James;19","3","0","8.1583"," mr","ernest","crease",19,"Male","Adult",1999
+"70","69","YES","Andersson, Miss. Erna Alexandra;17","3","4","7.925"," miss","erna","andersson",17,"Female","Minor",2001
+"71","70","NO","Kink, Mr. Vincenz;26","3","2","8.6625"," mr","vincenz","kink",26,"Male","Adult",1992
+"72","71","NO","Jenkin, Mr. Stephen Curnow;32","2","0","10.5"," mr","stephen","jenkin",32,"Male","Adult",1986
+"73","72","NO","Goodwin, Miss. Lillian Amy;16","3","5","46.9"," miss","lillian","goodwin",16,"Female","Minor",2002
+"74","73","NO","Hood, Mr. Ambrose Jr;21","2","0","73.5"," mr","ambrose","hood",21,"Male","Adult",1997
+"75","74","NO","Chronopoulos, Mr. Apostolos;26","3","1","14.4542"," mr","apostolos","chronopoulos",26,"Male","Adult",1992
+"76","75","YES","Bing, Mr. Lee;32","3","0","56.4958"," mr","lee","bing",32,"Male","Adult",1986
+"77","76","NO","Moen, Mr. Sigurd Hansen;25","3","0","7.65"," mr","sigurd","moen",25,"Male","Adult",1993
+"78","77","NO","Staneff, Mr. Ivan;","3","0","7.8958"," mr","ivan","staneff",30,"Male","Adult",1988
+"79","78","NO","Moutal, Mr. Rahamin Haim;","3","0","8.05"," mr","rahamin","moutal",30,"Male","Adult",1988
+"80","79","YES","Caldwell, Master. Alden Gates;0.83","2","0","29"," master","alden","caldwell",0.83,"Male","Minor",2017
+"81","80","YES","Dowdell, Miss. Elizabeth;30","3","0","12.475"," miss","elizabeth","dowdell",30,"Female","Adult",1988
+"82","81","NO","Waelens, Mr. Achille;22","3","0","9"," mr","achille","waelens",22,"Male","Adult",1996
+"83","82","YES","Sheerlinck, Mr. Jan Baptist;29","3","0","9.5"," mr","jan","sheerlinck",29,"Male","Adult",1989
+"84","83","YES","McDermott, Miss. Brigdet Delia;","3","0","7.7875"," miss","brigdet","mcdermott",30,"Female","Adult",1988
+"85","84","NO","Carrau, Mr. Francisco M;28","1","0","47.1"," mr","francisco","carrau",28,"Male","Adult",1990
+"86","85","YES","Ilett, Miss. Bertha;17","2","0","10.5"," miss","bertha","ilett",17,"Female","Minor",2001
+"87","86","YES","Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson);33","3","3","15.85"," mrs","karl","backstrom",33,"Female","Adult",1985
+"88","87","NO","Ford, Mr. William Neal;16","3","1","34.375"," mr","william","ford",16,"Male","Minor",2002
+"89","88","NO","Slocovski, Mr. Selman Francis;","3","0","8.05"," mr","selman","slocovski",30,"Male","Adult",1988
+"90","89","YES","Fortune, Miss. Mabel Helen;23","1","3","263"," miss","mabel","fortune",23,"Female","Adult",1995
+"91","90","NO","Celotti, Mr. Francesco;24","3","0","8.05"," mr","francesco","celotti",24,"Male","Adult",1994
+"92","91","NO","Christmann, Mr. Emil;29","3","0","8.05"," mr","emil","christmann",29,"Male","Adult",1989
+"93","92","NO","Andreasson, Mr. Paul Edvin;20","3","0","7.8542"," mr","paul","andreasson",20,"Male","Adult",1998
+"94","93","NO","Chaffee, Mr. Herbert Fuller;46","1","1","61.175"," mr","herbert","chaffee",46,"Male","Adult",1972
+"95","94","NO","Dean, Mr. Bertram Frank;26","3","1","20.575"," mr","bertram","dean",26,"Male","Adult",1992
+"96","95","NO","Coxon, Mr. Daniel;59","3","0","7.25"," mr","daniel","coxon",59,"Male","Adult",1959
+"97","96","NO","Shorney, Mr. Charles Joseph;","3","0","8.05"," mr","charles","shorney",30,"Male","Adult",1988
+"98","97","NO","Goldschmidt, Mr. George B;71","1","0","34.6542"," mr","george","goldschmidt",71,"Male","Adult",1947
+"99","98","YES","Greenfield, Mr. William Bertram;23","1","0","63.3583"," mr","william","greenfield",23,"Male","Adult",1995
+"100","99","YES","Doling, Mrs. John T (Ada Julia Bone);34","2","0","23"," mrs","john","doling",34,"Female","Adult",1984
+"101","100","NO","Kantor, Mr. Sinai;34","2","1","26"," mr","sinai","kantor",34,"Male","Adult",1984
+"102","101","NO","Petranec, Miss. Matilda;28","3","0","7.8958"," miss","matilda","petranec",28,"Female","Adult",1990
+"103","102","NO","Petroff, Mr. Pastcho (""Pentcho"");","3","0","7.8958"," mr","pastcho","petroff",30,"Male","Adult",1988
+"104","103","NO","White, Mr. Richard Frasar;21","1","0","77.2875"," mr","richard","white",21,"Male","Adult",1997
+"105","104","NO","Johansson, Mr. Gustaf Joel;33","3","0","8.6542"," mr","gustaf","johansson",33,"Male","Adult",1985
+"106","105","NO","Gustafsson, Mr. Anders Vilhelm;37","3","2","7.925"," mr","anders","gustafsson",37,"Male","Adult",1981
+"107","106","NO","Mionoff, Mr. Stoytcho;28","3","0","7.8958"," mr","stoytcho","mionoff",28,"Male","Adult",1990
+"108","107","YES","Salkjelsvik, Miss. Anna Kristine;21","3","0","7.65"," miss","anna","salkjelsvik",21,"Female","Adult",1997
+"109","108","YES","Moss, Mr. Albert Johan;","3","0","7.775"," mr","albert","moss",30,"Male","Adult",1988
+"110","109","NO","Rekic, Mr. Tido;38","3","0","7.8958"," mr","tido","rekic",38,"Male","Adult",1980
+"111","110","YES","Moran, Miss. Bertha;","3","1","24.15"," miss","bertha","moran",30,"Female","Adult",1988
+"112","111","NO","Porter, Mr. Walter Chamberlain;47","1","0","52"," mr","walter","porter",47,"Male","Adult",1971
+"113","112","NO","Zabour, Miss. Hileni;14.5","3","1","14.4542"," miss","hileni","zabour",14.5,"Female","Minor",2003
+"114","113","NO","Barton, Mr. David John;22","3","0","8.05"," mr","david","barton",22,"Male","Adult",1996
+"115","114","NO","Jussila, Miss. Katriina;20","3","1","9.825"," miss","katriina","jussila",20,"Female","Adult",1998
+"116","115","NO","Attalah, Miss. Malake;17","3","0","14.4583"," miss","malake","attalah",17,"Female","Minor",2001
+"117","116","NO","Pekoniemi, Mr. Edvard;21","3","0","7.925"," mr","edvard","pekoniemi",21,"Male","Adult",1997
+"118","117","NO","Connors, Mr. Patrick;70.5","3","0","7.75"," mr","patrick","connors",70.5,"Male","Adult",1947
+"119","118","NO","Turpin, Mr. William John Robert;29","2","1","21"," mr","william","turpin",29,"Male","Adult",1989
+"120","119","NO","Baxter, Mr. Quigg Edmond;24","1","0","247.5208"," mr","quigg","baxter",24,"Male","Adult",1994
+"121","120","NO","Andersson, Miss. Ellis Anna Maria;2","3","4","31.275"," miss","ellis","andersson",2,"Female","Minor",2016
+"122","121","NO","Hickman, Mr. Stanley George;21","2","2","73.5"," mr","stanley","hickman",21,"Male","Adult",1997
+"123","122","NO","Moore, Mr. Leonard Charles;","3","0","8.05"," mr","leonard","moore",30,"Male","Adult",1988
+"124","123","NO","Nasser, Mr. Nicholas;32.5","2","1","30.0708"," mr","nicholas","nasser",32.5,"Male","Adult",1985
+"125","124","YES","Webber, Miss. Susan;32.5","2","0","13"," miss","susan","webber",32.5,"Female","Adult",1985
+"126","125","NO","White, Mr. Percival Wayland;54","1","0","77.2875"," mr","percival","white",54,"Male","Adult",1964
+"127","126","YES","Nicola-Yarred, Master. Elias;12","3","1","11.2417"," master","elias","nicola-yarred",12,"Male","Minor",2006
+"128","127","NO","McMahon, Mr. Martin;","3","0","7.75"," mr","martin","mcmahon",30,"Male","Adult",1988
+"129","128","YES","Madsen, Mr. Fridtjof Arne;24","3","0","7.1417"," mr","fridtjof","madsen",24,"Male","Adult",1994
+"130","129","YES","Peter, Miss. Anna;","3","1","22.3583"," miss","anna","peter",30,"Female","Adult",1988
+"131","130","NO","Ekstrom, Mr. Johan;45","3","0","6.975"," mr","johan","ekstrom",45,"Male","Adult",1973
+"132","131","NO","Drazenoic, Mr. Jozef;33","3","0","7.8958"," mr","jozef","drazenoic",33,"Male","Adult",1985
+"133","132","NO","Coelho, Mr. Domingos Fernandeo;20","3","0","7.05"," mr","domingos","coelho",20,"Male","Adult",1998
+"134","133","NO","Robins, Mrs. Alexander A (Grace Charity Laury);47","3","1","14.5"," mrs","alexander","robins",47,"Female","Adult",1971
+"135","134","YES","Weisz, Mrs. Leopold (Mathilde Francoise Pede);29","2","1","26"," mrs","leopold","weisz",29,"Female","Adult",1989
+"136","135","NO","Sobey, Mr. Samuel James Hayden;25","2","0","13"," mr","samuel","sobey",25,"Male","Adult",1993
+"137","136","NO","Richard, Mr. Emile;23","2","0","15.0458"," mr","emile","richard",23,"Male","Adult",1995
+"138","137","YES","Newsom, Miss. Helen Monypeny;19","1","0","26.2833"," miss","helen","newsom",19,"Female","Adult",1999
+"139","138","NO","Futrelle, Mr. Jacques Heath;37","1","1","53.1"," mr","jacques","futrelle",37,"Male","Adult",1981
+"140","139","NO","Osen, Mr. Olaf Elon;16","3","0","9.2167"," mr","olaf","osen",16,"Male","Minor",2002
+"141","140","NO","Giglio, Mr. Victor;24","1","0","79.2"," mr","victor","giglio",24,"Male","Adult",1994
+"142","141","NO","Boulos, Mrs. Joseph (Sultana);","3","0","15.2458"," mrs","joseph","boulos",30,"Female","Adult",1988
+"143","142","YES","Nysten, Miss. Anna Sofia;22","3","0","7.75"," miss","anna","nysten",22,"Female","Adult",1996
+"144","143","YES","Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck);24","3","1","15.85"," mrs","pekka","hakkarainen",24,"Female","Adult",1994
+"145","144","NO","Burke, Mr. Jeremiah;19","3","0","6.75"," mr","jeremiah","burke",19,"Male","Adult",1999
+"146","145","NO","Andrew, Mr. Edgardo Samuel;18","2","0","11.5"," mr","edgardo","andrew",18,"Male","Minor",2000
+"147","146","NO","Nicholls, Mr. Joseph Charles;19","2","1","36.75"," mr","joseph","nicholls",19,"Male","Adult",1999
+"148","147","YES","Andersson, Mr. August Edvard (""Wennerstrom"");27","3","0","7.7958"," mr","august","andersson",27,"Male","Adult",1991
+"149","148","NO","Ford, Miss. Robina Maggie ""Ruby"";9","3","2","34.375"," miss","robina","ford",9,"Female","Minor",2009
+"150","149","NO","Navratil, Mr. Michel (""Louis M Hoffman"");36.5","2","0","26"," mr","michel","navratil",36.5,"Male","Adult",1981
+"151","150","NO","Byles, Rev. Thomas Roussel Davids;42","2","0","13"," rev","thomas","byles",42,"Male","Adult",1976
+"152","151","NO","Bateman, Rev. Robert James;51","2","0","12.525"," rev","robert","bateman",51,"Male","Adult",1967
+"153","152","YES","Pears, Mrs. Thomas (Edith Wearne);22","1","1","66.6"," mrs","thomas","pears",22,"Female","Adult",1996
+"154","153","NO","Meo, Mr. Alfonzo;55.5","3","0","8.05"," mr","alfonzo","meo",55.5,"Male","Adult",1962
+"155","154","NO","van Billiard, Mr. Austin Blyler;40.5","3","0","14.5"," mr","austin","van billiard",40.5,"Male","Adult",1977
+"156","155","NO","Olsen, Mr. Ole Martin;","3","0","7.3125"," mr","ole","olsen",30,"Male","Adult",1988
+"157","156","NO","Williams, Mr. Charles Duane;51","1","0","61.3792"," mr","charles","williams",51,"Male","Adult",1967
+"158","157","YES","Gilnagh, Miss. Katherine ""Katie"";16","3","0","7.7333"," miss","katherine","gilnagh",16,"Female","Minor",2002
+"159","158","NO","Corn, Mr. Harry;30","3","0","8.05"," mr","harry","corn",30,"Male","Adult",1988
+"160","159","NO","Smiljanic, Mr. Mile;","3","0","8.6625"," mr","mile","smiljanic",30,"Male","Adult",1988
+"161","160","NO","Sage, Master. Thomas Henry;","3","8","69.55"," master","thomas","sage",30,"Male","Adult",1988
+"162","161","NO","Cribb, Mr. John Hatfield;44","3","0","16.1"," mr","john","cribb",44,"Male","Adult",1974
+"163","162","YES","Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne);40","2","0","15.75"," mrs","james","watt",40,"Female","Adult",1978
+"164","163","NO","Bengtsson, Mr. John Viktor;26","3","0","7.775"," mr","john","bengtsson",26,"Male","Adult",1992
+"165","164","NO","Calic, Mr. Jovo;17","3","0","8.6625"," mr","jovo","calic",17,"Male","Minor",2001
+"166","165","NO","Panula, Master. Eino Viljami;1","3","4","39.6875"," master","eino","panula",1,"Male","Minor",2017
+"167","166","YES","Goldsmith, Master. Frank John William ""Frankie"";9","3","0","20.525"," master","frank","goldsmith",9,"Male","Minor",2009
+"168","167","YES","Chibnall, Mrs. (Edith Martha Bowerman);","1","0","55"," mrs","(edith","chibnall",30,"Female","Adult",1988
+"169","168","NO","Skoog, Mrs. William (Anna Bernhardina Karlsson);45","3","1","27.9"," mrs","william","skoog",45,"Female","Adult",1973
+"170","169","NO","Baumann, Mr. John D;","1","0","25.925"," mr","john","baumann",30,"Male","Adult",1988
+"171","170","NO","Ling, Mr. Lee;28","3","0","56.4958"," mr","lee","ling",28,"Male","Adult",1990
+"172","171","NO","Van der hoef, Mr. Wyckoff;61","1","0","33.5"," mr","wyckoff","van der hoef",61,"Male","Adult",1957
+"173","172","NO","Rice, Master. Arthur;4","3","4","29.125"," master","arthur","rice",4,"Male","Minor",2014
+"174","173","YES","Johnson, Miss. Eleanor Ileen;1","3","1","11.1333"," miss","eleanor","johnson",1,"Female","Minor",2017
+"175","174","NO","Sivola, Mr. Antti Wilhelm;21","3","0","7.925"," mr","antti","sivola",21,"Male","Adult",1997
+"176","175","NO","Smith, Mr. James Clinch;56","1","0","30.6958"," mr","james","smith",56,"Male","Adult",1962
+"177","176","NO","Klasen, Mr. Klas Albin;18","3","1","7.8542"," mr","klas","klasen",18,"Male","Minor",2000
+"178","177","NO","Lefebre, Master. Henry Forbes;","3","3","25.4667"," master","henry","lefebre",30,"Male","Adult",1988
+"179","178","NO","Isham, Miss. Ann Elizabeth;50","1","0","28.7125"," miss","ann","isham",50,"Female","Adult",1968
+"180","179","NO","Hale, Mr. Reginald;30","2","0","13"," mr","reginald","hale",30,"Male","Adult",1988
+"181","180","NO","Leonard, Mr. Lionel;36","3","0","0"," mr","lionel","leonard",36,"Male","Adult",1982
+"182","181","NO","Sage, Miss. Constance Gladys;","3","8","69.55"," miss","constance","sage",30,"Female","Adult",1988
+"183","182","NO","Pernot, Mr. Rene;","2","0","15.05"," mr","rene","pernot",30,"Male","Adult",1988
+"184","183","NO","Asplund, Master. Clarence Gustaf Hugo;9","3","4","31.3875"," master","clarence","asplund",9,"Male","Minor",2009
+"185","184","YES","Becker, Master. Richard F;1","2","2","39"," master","richard","becker",1,"Male","Minor",2017
+"186","185","YES","Kink-Heilmann, Miss. Luise Gretchen;4","3","0","22.025"," miss","luise","kink-heilmann",4,"Female","Minor",2014
+"187","186","NO","Rood, Mr. Hugh Roscoe;","1","0","50"," mr","hugh","rood",30,"Male","Adult",1988
+"188","187","YES","O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey);","3","1","15.5"," mrs","thomas","o'brien",30,"Female","Adult",1988
+"189","188","YES","Romaine, Mr. Charles Hallace (""Mr C Rolmane"");45","1","0","26.55"," mr","charles","romaine",45,"Male","Adult",1973
+"190","189","NO","Bourke, Mr. John;40","3","1","15.5"," mr","john","bourke",40,"Male","Adult",1978
+"191","190","NO","Turcin, Mr. Stjepan;36","3","0","7.8958"," mr","stjepan","turcin",36,"Male","Adult",1982
+"192","191","YES","Pinsky, Mrs. (Rosa);32","2","0","13"," mrs","(rosa)","pinsky",32,"Female","Adult",1986
+"193","192","NO","Carbines, Mr. William;19","2","0","13"," mr","william","carbines",19,"Male","Adult",1999
+"194","193","YES","Andersen-Jensen, Miss. Carla Christine Nielsine;19","3","1","7.8542"," miss","carla","andersen-jensen",19,"Female","Adult",1999
+"195","194","YES","Navratil, Master. Michel M;3","2","1","26"," master","michel","navratil",3,"Male","Minor",2015
+"196","195","YES","Brown, Mrs. James Joseph (Margaret Tobin);44","1","0","27.7208"," mrs","james","brown",44,"Female","Adult",1974
+"197","196","YES","Lurette, Miss. Elise;58","1","0","146.5208"," miss","elise","lurette",58,"Female","Adult",1960
+"198","197","NO","Mernagh, Mr. Robert;","3","0","7.75"," mr","robert","mernagh",30,"Male","Adult",1988
+"199","198","NO","Olsen, Mr. Karl Siegwart Andreas;42","3","0","8.4042"," mr","karl","olsen",42,"Male","Adult",1976
+"200","199","YES","Madigan, Miss. Margaret ""Maggie"";","3","0","7.75"," miss","margaret","madigan",30,"Female","Adult",1988
+"201","200","NO","Yrois, Miss. Henriette (""Mrs Harbeck"");24","2","0","13"," miss","henriette","yrois",24,"Female","Adult",1994
+"202","201","NO","Vande Walle, Mr. Nestor Cyriel;28","3","0","9.5"," mr","nestor","vande walle",28,"Male","Adult",1990
+"203","202","NO","Sage, Mr. Frederick;","3","8","69.55"," mr","frederick","sage",30,"Male","Adult",1988
+"204","203","NO","Johanson, Mr. Jakob Alfred;34","3","0","6.4958"," mr","jakob","johanson",34,"Male","Adult",1984
+"205","204","NO","Youseff, Mr. Gerious;45.5","3","0","7.225"," mr","gerious","youseff",45.5,"Male","Adult",1972
+"206","205","YES","Cohen, Mr. Gurshon ""Gus"";18","3","0","8.05"," mr","gurshon","cohen",18,"Male","Minor",2000
+"207","206","NO","Strom, Miss. Telma Matilda;2","3","0","10.4625"," miss","telma","strom",2,"Female","Minor",2016
+"208","207","NO","Backstrom, Mr. Karl Alfred;32","3","1","15.85"," mr","karl","backstrom",32,"Male","Adult",1986
+"209","208","YES","Albimona, Mr. Nassef Cassem;26","3","0","18.7875"," mr","nassef","albimona",26,"Male","Adult",1992
+"210","209","YES","Carr, Miss. Helen ""Ellen"";16","3","0","7.75"," miss","helen","carr",16,"Female","Minor",2002
+"211","210","YES","Blank, Mr. Henry;40","1","0","31"," mr","henry","blank",40,"Male","Adult",1978
+"212","211","NO","Ali, Mr. Ahmed;24","3","0","7.05"," mr","ahmed","ali",24,"Male","Adult",1994
+"213","212","YES","Cameron, Miss. Clear Annie;35","2","0","21"," miss","clear","cameron",35,"Female","Adult",1983
+"214","213","NO","Perkin, Mr. John Henry;22","3","0","7.25"," mr","john","perkin",22,"Male","Adult",1996
+"215","214","NO","Givard, Mr. Hans Kristensen;30","2","0","13"," mr","hans","givard",30,"Male","Adult",1988
+"216","215","NO","Kiernan, Mr. Philip;","3","1","7.75"," mr","philip","kiernan",30,"Male","Adult",1988
+"217","216","YES","Newell, Miss. Madeleine;31","1","1","113.275"," miss","madeleine","newell",31,"Female","Adult",1987
+"218","217","YES","Honkanen, Miss. Eliina;27","3","0","7.925"," miss","eliina","honkanen",27,"Female","Adult",1991
+"219","218","NO","Jacobsohn, Mr. Sidney Samuel;42","2","1","27"," mr","sidney","jacobsohn",42,"Male","Adult",1976
+"220","219","YES","Bazzani, Miss. Albina;32","1","0","76.2917"," miss","albina","bazzani",32,"Female","Adult",1986
+"221","220","NO","Harris, Mr. Walter;30","2","0","10.5"," mr","walter","harris",30,"Male","Adult",1988
+"222","221","YES","Sunderland, Mr. Victor Francis;16","3","0","8.05"," mr","victor","sunderland",16,"Male","Minor",2002
+"223","222","NO","Bracken, Mr. James H;27","2","0","13"," mr","james","bracken",27,"Male","Adult",1991
+"224","223","NO","Green, Mr. George Henry;51","3","0","8.05"," mr","george","green",51,"Male","Adult",1967
+"225","224","NO","Nenkoff, Mr. Christo;","3","0","7.8958"," mr","christo","nenkoff",30,"Male","Adult",1988
+"226","225","YES","Hoyt, Mr. Frederick Maxfield;38","1","1","90"," mr","frederick","hoyt",38,"Male","Adult",1980
+"227","226","NO","Berglund, Mr. Karl Ivar Sven;22","3","0","9.35"," mr","karl","berglund",22,"Male","Adult",1996
+"228","227","YES","Mellors, Mr. William John;19","2","0","10.5"," mr","william","mellors",19,"Male","Adult",1999
+"229","228","NO","Lovell, Mr. John Hall (""Henry"");20.5","3","0","7.25"," mr","john","lovell",20.5,"Male","Adult",1997
+"230","229","NO","Fahlstrom, Mr. Arne Jonas;18","2","0","13"," mr","arne","fahlstrom",18,"Male","Minor",2000
+"231","230","NO","Lefebre, Miss. Mathilde;","3","3","25.4667"," miss","mathilde","lefebre",30,"Female","Adult",1988
+"232","231","YES","Harris, Mrs. Henry Birkhardt (Irene Wallach);35","1","1","83.475"," mrs","henry","harris",35,"Female","Adult",1983
+"233","232","NO","Larsson, Mr. Bengt Edvin;29","3","0","7.775"," mr","bengt","larsson",29,"Male","Adult",1989
+"234","233","NO","Sjostedt, Mr. Ernst Adolf;59","2","0","13.5"," mr","ernst","sjostedt",59,"Male","Adult",1959
+"235","234","YES","Asplund, Miss. Lillian Gertrud;5","3","4","31.3875"," miss","lillian","asplund",5,"Female","Minor",2013
+"236","235","NO","Leyson, Mr. Robert William Norman;24","2","0","10.5"," mr","robert","leyson",24,"Male","Adult",1994
+"237","236","NO","Harknett, Miss. Alice Phoebe;","3","0","7.55"," miss","alice","harknett",30,"Female","Adult",1988
+"238","237","NO","Hold, Mr. Stephen;44","2","1","26"," mr","stephen","hold",44,"Male","Adult",1974
+"239","238","YES","Collyer, Miss. Marjorie ""Lottie"";8","2","0","26.25"," miss","marjorie","collyer",8,"Female","Minor",2010
+"240","239","NO","Pengelly, Mr. Frederick William;19","2","0","10.5"," mr","frederick","pengelly",19,"Male","Adult",1999
+"241","240","NO","Hunt, Mr. George Henry;33","2","0","12.275"," mr","george","hunt",33,"Male","Adult",1985
+"242","241","NO","Zabour, Miss. Thamine;","3","1","14.4542"," miss","thamine","zabour",30,"Female","Adult",1988
+"243","242","YES","Murphy, Miss. Katherine ""Kate"";","3","1","15.5"," miss","katherine","murphy",30,"Female","Adult",1988
+"244","243","NO","Coleridge, Mr. Reginald Charles;29","2","0","10.5"," mr","reginald","coleridge",29,"Male","Adult",1989
+"245","244","NO","Maenpaa, Mr. Matti Alexanteri;22","3","0","7.125"," mr","matti","maenpaa",22,"Male","Adult",1996
+"246","245","NO","Attalah, Mr. Sleiman;30","3","0","7.225"," mr","sleiman","attalah",30,"Male","Adult",1988
+"247","246","NO","Minahan, Dr. William Edward;44","1","2","90"," dr","william","minahan",44,"Male","Adult",1974
+"248","247","NO","Lindahl, Miss. Agda Thorilda Viktoria;25","3","0","7.775"," miss","agda","lindahl",25,"Female","Adult",1993
+"249","248","YES","Hamalainen, Mrs. William (Anna);24","2","0","14.5"," mrs","william","hamalainen",24,"Female","Adult",1994
+"250","249","YES","Beckwith, Mr. Richard Leonard;37","1","1","52.5542"," mr","richard","beckwith",37,"Male","Adult",1981
+"251","250","NO","Carter, Rev. Ernest Courtenay;54","2","1","26"," rev","ernest","carter",54,"Male","Adult",1964
+"252","251","NO","Reed, Mr. James George;","3","0","7.25"," mr","james","reed",30,"Male","Adult",1988
+"253","252","NO","Strom, Mrs. Wilhelm (Elna Matilda Persson);29","3","1","10.4625"," mrs","wilhelm","strom",29,"Female","Adult",1989
+"254","253","NO","Stead, Mr. William Thomas;62","1","0","26.55"," mr","william","stead",62,"Male","Adult",1956
+"255","254","NO","Lobb, Mr. William Arthur;30","3","1","16.1"," mr","william","lobb",30,"Male","Adult",1988
+"256","255","NO","Rosblom, Mrs. Viktor (Helena Wilhelmina);41","3","0","20.2125"," mrs","viktor","rosblom",41,"Female","Adult",1977
+"257","256","YES","Touma, Mrs. Darwis (Hanne Youssef Razi);29","3","0","15.2458"," mrs","darwis","touma",29,"Female","Adult",1989
+"258","257","YES","Thorne, Mrs. Gertrude Maybelle;","1","0","79.2"," mrs","gertrude","thorne",30,"Female","Adult",1988
+"259","258","YES","Cherry, Miss. Gladys;30","1","0","86.5"," miss","gladys","cherry",30,"Female","Adult",1988
+"260","259","YES","Ward, Miss. Anna;35","1","0","512.3292"," miss","anna","ward",35,"Female","Adult",1983
+"261","260","YES","Parrish, Mrs. (Lutie Davis);50","2","0","26"," mrs","(lutie","parrish",50,"Female","Adult",1968
+"262","261","NO","Smith, Mr. Thomas;","3","0","7.75"," mr","thomas","smith",30,"Male","Adult",1988
+"263","262","YES","Asplund, Master. Edvin Rojj Felix;3","3","4","31.3875"," master","edvin","asplund",3,"Male","Minor",2015
+"264","263","NO","Taussig, Mr. Emil;52","1","1","79.65"," mr","emil","taussig",52,"Male","Adult",1966
+"265","264","NO","Harrison, Mr. William;40","1","0","0"," mr","william","harrison",40,"Male","Adult",1978
+"266","265","NO","Henry, Miss. Delia;","3","0","7.75"," miss","delia","henry",30,"Female","Adult",1988
+"267","266","NO","Reeves, Mr. David;36","2","0","10.5"," mr","david","reeves",36,"Male","Adult",1982
+"268","267","NO","Panula, Mr. Ernesti Arvid;16","3","4","39.6875"," mr","ernesti","panula",16,"Male","Minor",2002
+"269","268","YES","Persson, Mr. Ernst Ulrik;25","3","1","7.775"," mr","ernst","persson",25,"Male","Adult",1993
+"270","269","YES","Graham, Mrs. William Thompson (Edith Junkins);58","1","0","153.4625"," mrs","william","graham",58,"Female","Adult",1960
+"271","270","YES","Bissette, Miss. Amelia;35","1","0","135.6333"," miss","amelia","bissette",35,"Female","Adult",1983
+"272","271","NO","Cairns, Mr. Alexander;","1","0","31"," mr","alexander","cairns",30,"Male","Adult",1988
+"273","272","YES","Tornquist, Mr. William Henry;25","3","0","0"," mr","william","tornquist",25,"Male","Adult",1993
+"274","273","YES","Mellinger, Mrs. (Elizabeth Anne Maidment);41","2","0","19.5"," mrs","(elizabeth","mellinger",41,"Female","Adult",1977
+"275","274","NO","Natsch, Mr. Charles H;37","1","0","29.7"," mr","charles","natsch",37,"Male","Adult",1981
+"276","275","YES","Healy, Miss. Hanora ""Nora"";","3","0","7.75"," miss","hanora","healy",30,"Female","Adult",1988
+"277","276","YES","Andrews, Miss. Kornelia Theodosia;63","1","1","77.9583"," miss","kornelia","andrews",63,"Female","Adult",1955
+"278","277","NO","Lindblom, Miss. Augusta Charlotta;45","3","0","7.75"," miss","augusta","lindblom",45,"Female","Adult",1973
+"279","278","NO","Parkes, Mr. Francis ""Frank"";","2","0","0"," mr","francis","parkes",30,"Male","Adult",1988
+"280","279","NO","Rice, Master. Eric;7","3","4","29.125"," master","eric","rice",7,"Male","Minor",2011
+"281","280","YES","Abbott, Mrs. Stanton (Rosa Hunt);35","3","1","20.25"," mrs","stanton","abbott",35,"Female","Adult",1983
+"282","281","NO","Duane, Mr. Frank;65","3","0","7.75"," mr","frank","duane",65,"Male","Adult",1953
+"283","282","NO","Olsson, Mr. Nils Johan Goransson;28","3","0","7.8542"," mr","nils","olsson",28,"Male","Adult",1990
+"284","283","NO","de Pelsmaeker, Mr. Alfons;16","3","0","9.5"," mr","alfons","de pelsmaeker",16,"Male","Minor",2002
+"285","284","YES","Dorking, Mr. Edward Arthur;19","3","0","8.05"," mr","edward","dorking",19,"Male","Adult",1999
+"286","285","NO","Smith, Mr. Richard William;","1","0","26"," mr","richard","smith",30,"Male","Adult",1988
+"287","286","NO","Stankovic, Mr. Ivan;33","3","0","8.6625"," mr","ivan","stankovic",33,"Male","Adult",1985
+"288","287","YES","de Mulder, Mr. Theodore;30","3","0","9.5"," mr","theodore","de mulder",30,"Male","Adult",1988
+"289","288","NO","Naidenoff, Mr. Penko;22","3","0","7.8958"," mr","penko","naidenoff",22,"Male","Adult",1996
+"290","289","YES","Hosono, Mr. Masabumi;42","2","0","13"," mr","masabumi","hosono",42,"Male","Adult",1976
+"291","290","YES","Connolly, Miss. Kate;22","3","0","7.75"," miss","kate","connolly",22,"Female","Adult",1996
+"292","291","YES","Barber, Miss. Ellen ""Nellie"";26","1","0","78.85"," miss","ellen","barber",26,"Female","Adult",1992
+"293","292","YES","Bishop, Mrs. Dickinson H (Helen Walton);19","1","1","91.0792"," mrs","dickinson","bishop",19,"Female","Adult",1999
+"294","293","NO","Levy, Mr. Rene Jacques;36","2","0","12.875"," mr","rene","levy",36,"Male","Adult",1982
+"295","294","NO","Haas, Miss. Aloisia;24","3","0","8.85"," miss","aloisia","haas",24,"Female","Adult",1994
+"296","295","NO","Mineff, Mr. Ivan;24","3","0","7.8958"," mr","ivan","mineff",24,"Male","Adult",1994
+"297","296","NO","Lewy, Mr. Ervin G;","1","0","27.7208"," mr","ervin","lewy",30,"Male","Adult",1988
+"298","297","NO","Hanna, Mr. Mansour;23.5","3","0","7.2292"," mr","mansour","hanna",23.5,"Male","Adult",1994
+"299","298","NO","Allison, Miss. Helen Loraine;2","1","1","151.55"," miss","helen","allison",2,"Female","Minor",2016
+"300","299","YES","Saalfeld, Mr. Adolphe;","1","0","30.5"," mr","adolphe","saalfeld",30,"Male","Adult",1988
+"301","300","YES","Baxter, Mrs. James (Helene DeLaudeniere Chaput);50","1","0","247.5208"," mrs","james","baxter",50,"Female","Adult",1968
+"302","301","YES","Kelly, Miss. Anna Katherine ""Annie Kate"";","3","0","7.75"," miss","anna","kelly",30,"Female","Adult",1988
+"303","302","YES","McCoy, Mr. Bernard;","3","2","23.25"," mr","bernard","mccoy",30,"Male","Adult",1988
+"304","303","NO","Johnson, Mr. William Cahoone Jr;19","3","0","0"," mr","william","johnson",19,"Male","Adult",1999
+"305","304","YES","Keane, Miss. Nora A;","2","0","12.35"," miss","nora","keane",30,"Female","Adult",1988
+"306","305","NO","Williams, Mr. Howard Hugh ""Harry"";","3","0","8.05"," mr","howard","williams",30,"Male","Adult",1988
+"307","306","YES","Allison, Master. Hudson Trevor;0.92","1","1","151.55"," master","hudson","allison",0.92,"Male","Minor",2017
+"308","307","YES","Fleming, Miss. Margaret;","1","0","110.8833"," miss","margaret","fleming",30,"Female","Adult",1988
+"309","308","YES","Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo);17","1","1","108.9"," mrs","victor","penasco y castellana",17,"Female","Minor",2001
+"310","309","NO","Abelson, Mr. Samuel;30","2","1","24"," mr","samuel","abelson",30,"Male","Adult",1988
+"311","310","YES","Francatelli, Miss. Laura Mabel;30","1","0","56.9292"," miss","laura","francatelli",30,"Female","Adult",1988
+"312","311","YES","Hays, Miss. Margaret Bechstein;24","1","0","83.1583"," miss","margaret","hays",24,"Female","Adult",1994
+"313","312","YES","Ryerson, Miss. Emily Borie;18","1","2","262.375"," miss","emily","ryerson",18,"Female","Minor",2000
+"314","313","NO","Lahtinen, Mrs. William (Anna Sylfven);26","2","1","26"," mrs","william","lahtinen",26,"Female","Adult",1992
+"315","314","NO","Hendekovic, Mr. Ignjac;28","3","0","7.8958"," mr","ignjac","hendekovic",28,"Male","Adult",1990
+"316","315","NO","Hart, Mr. Benjamin;43","2","1","26.25"," mr","benjamin","hart",43,"Male","Adult",1975
+"317","316","YES","Nilsson, Miss. Helmina Josefina;26","3","0","7.8542"," miss","helmina","nilsson",26,"Female","Adult",1992
+"318","317","YES","Kantor, Mrs. Sinai (Miriam Sternin);24","2","1","26"," mrs","sinai","kantor",24,"Female","Adult",1994
+"319","318","NO","Moraweck, Dr. Ernest;54","2","0","14"," dr","ernest","moraweck",54,"Male","Adult",1964
+"320","319","YES","Wick, Miss. Mary Natalie;31","1","0","164.8667"," miss","mary","wick",31,"Female","Adult",1987
+"321","320","YES","Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone);40","1","1","134.5"," mrs","frederic","spedden",40,"Female","Adult",1978
+"322","321","NO","Dennis, Mr. Samuel;22","3","0","7.25"," mr","samuel","dennis",22,"Male","Adult",1996
+"323","322","NO","Danoff, Mr. Yoto;27","3","0","7.8958"," mr","yoto","danoff",27,"Male","Adult",1991
+"324","323","YES","Slayter, Miss. Hilda Mary;30","2","0","12.35"," miss","hilda","slayter",30,"Female","Adult",1988
+"325","324","YES","Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh);22","2","1","29"," mrs","albert","caldwell",22,"Female","Adult",1996
+"326","325","NO","Sage, Mr. George John Jr;","3","8","69.55"," mr","george","sage",30,"Male","Adult",1988
+"327","326","YES","Young, Miss. Marie Grice;36","1","0","135.6333"," miss","marie","young",36,"Female","Adult",1982
+"328","327","NO","Nysveen, Mr. Johan Hansen;61","3","0","6.2375"," mr","johan","nysveen",61,"Male","Adult",1957
+"329","328","YES","Ball, Mrs. (Ada E Hall);36","2","0","13"," mrs","(ada","ball",36,"Female","Adult",1982
+"330","329","YES","Goldsmith, Mrs. Frank John (Emily Alice Brown);31","3","1","20.525"," mrs","frank","goldsmith",31,"Female","Adult",1987
+"331","330","YES","Hippach, Miss. Jean Gertrude;16","1","0","57.9792"," miss","jean","hippach",16,"Female","Minor",2002
+"332","331","YES","McCoy, Miss. Agnes;","3","2","23.25"," miss","agnes","mccoy",30,"Female","Adult",1988
+"333","332","NO","Partner, Mr. Austen;45.5","1","0","28.5"," mr","austen","partner",45.5,"Male","Adult",1972
+"334","333","NO","Graham, Mr. George Edward;38","1","0","153.4625"," mr","george","graham",38,"Male","Adult",1980
+"335","334","NO","Vander Planke, Mr. Leo Edmondus;16","3","2","18"," mr","leo","vander planke",16,"Male","Minor",2002
+"336","335","YES","Frauenthal, Mrs. Henry William (Clara Heinsheimer);","1","1","133.65"," mrs","henry","frauenthal",30,"Female","Adult",1988
+"337","336","NO","Denkoff, Mr. Mitto;","3","0","7.8958"," mr","mitto","denkoff",30,"Male","Adult",1988
+"338","337","NO","Pears, Mr. Thomas Clinton;29","1","1","66.6"," mr","thomas","pears",29,"Male","Adult",1989
+"339","338","YES","Burns, Miss. Elizabeth Margaret;41","1","0","134.5"," miss","elizabeth","burns",41,"Female","Adult",1977
+"340","339","YES","Dahl, Mr. Karl Edwart;45","3","0","8.05"," mr","karl","dahl",45,"Male","Adult",1973
+"341","340","NO","Blackwell, Mr. Stephen Weart;45","1","0","35.5"," mr","stephen","blackwell",45,"Male","Adult",1973
+"342","341","YES","Navratil, Master. Edmond Roger;2","2","1","26"," master","edmond","navratil",2,"Male","Minor",2016
+"343","342","YES","Fortune, Miss. Alice Elizabeth;24","1","3","263"," miss","alice","fortune",24,"Female","Adult",1994
+"344","343","NO","Collander, Mr. Erik Gustaf;28","2","0","13"," mr","erik","collander",28,"Male","Adult",1990
+"345","344","NO","Sedgwick, Mr. Charles Frederick Waddington;25","2","0","13"," mr","charles","sedgwick",25,"Male","Adult",1993
+"346","345","NO","Fox, Mr. Stanley Hubert;36","2","0","13"," mr","stanley","fox",36,"Male","Adult",1982
+"347","346","YES","Brown, Miss. Amelia ""Mildred"";24","2","0","13"," miss","amelia","brown",24,"Female","Adult",1994
+"348","347","YES","Smith, Miss. Marion Elsie;40","2","0","13"," miss","marion","smith",40,"Female","Adult",1978
+"349","348","YES","Davison, Mrs. Thomas Henry (Mary E Finck);","3","1","16.1"," mrs","thomas","davison",30,"Female","Adult",1988
+"350","349","YES","Coutts, Master. William Loch ""William"";3","3","1","15.9"," master","william","coutts",3,"Male","Minor",2015
+"351","350","NO","Dimic, Mr. Jovan;42","3","0","8.6625"," mr","jovan","dimic",42,"Male","Adult",1976
+"352","351","NO","Odahl, Mr. Nils Martin;23","3","0","9.225"," mr","nils","odahl",23,"Male","Adult",1995
+"353","352","NO","Williams-Lambert, Mr. Fletcher Fellows;","1","0","35"," mr","fletcher","williams-lambert",30,"Male","Adult",1988
+"354","353","NO","Elias, Mr. Tannous;15","3","1","7.2292"," mr","tannous","elias",15,"Male","Minor",2003
+"355","354","NO","Arnold-Franchi, Mr. Josef;25","3","1","17.8"," mr","josef","arnold-franchi",25,"Male","Adult",1993
+"356","355","NO","Yousif, Mr. Wazli;","3","0","7.225"," mr","wazli","yousif",30,"Male","Adult",1988
+"357","356","NO","Vanden Steen, Mr. Leo Peter;28","3","0","9.5"," mr","leo","vanden steen",28,"Male","Adult",1990
+"358","357","YES","Bowerman, Miss. Elsie Edith;22","1","0","55"," miss","elsie","bowerman",22,"Female","Adult",1996
+"359","358","NO","Funk, Miss. Annie Clemmer;38","2","0","13"," miss","annie","funk",38,"Female","Adult",1980
+"360","359","YES","McGovern, Miss. Mary;","3","0","7.8792"," miss","mary","mcgovern",30,"Female","Adult",1988
+"361","360","YES","Mockler, Miss. Helen Mary ""Ellie"";","3","0","7.8792"," miss","helen","mockler",30,"Female","Adult",1988
+"362","361","NO","Skoog, Mr. Wilhelm;40","3","1","27.9"," mr","wilhelm","skoog",40,"Male","Adult",1978
+"363","362","NO","del Carlo, Mr. Sebastiano;29","2","1","27.7208"," mr","sebastiano","del carlo",29,"Male","Adult",1989
+"364","363","NO","Barbara, Mrs. (Catherine David);45","3","0","14.4542"," mrs","(catherine","barbara",45,"Female","Adult",1973
+"365","364","NO","Asim, Mr. Adola;35","3","0","7.05"," mr","adola","asim",35,"Male","Adult",1983
+"366","365","NO","O'Brien, Mr. Thomas;","3","1","15.5"," mr","thomas","o'brien",30,"Male","Adult",1988
+"367","366","NO","Adahl, Mr. Mauritz Nils Martin;30","3","0","7.25"," mr","mauritz","adahl",30,"Male","Adult",1988
+"368","367","YES","Warren, Mrs. Frank Manley (Anna Sophia Atkinson);60","1","1","75.25"," mrs","frank","warren",60,"Female","Adult",1958
+"369","368","YES","Moussa, Mrs. (Mantoura Boulos);","3","0","7.2292"," mrs","(mantoura","moussa",30,"Female","Adult",1988
+"370","369","YES","Jermyn, Miss. Annie;","3","0","7.75"," miss","annie","jermyn",30,"Female","Adult",1988
+"371","370","YES","Aubart, Mme. Leontine Pauline;24","1","0","69.3"," mme","leontine","aubart",24,"Female","Adult",1994
+"372","371","YES","Harder, Mr. George Achilles;25","1","1","55.4417"," mr","george","harder",25,"Male","Adult",1993
+"373","372","NO","Wiklund, Mr. Jakob Alfred;18","3","1","6.4958"," mr","jakob","wiklund",18,"Male","Minor",2000
+"374","373","NO","Beavan, Mr. William Thomas;19","3","0","8.05"," mr","william","beavan",19,"Male","Adult",1999
+"375","374","NO","Ringhini, Mr. Sante;22","1","0","135.6333"," mr","sante","ringhini",22,"Male","Adult",1996
+"376","375","NO","Palsson, Miss. Stina Viola;3","3","3","21.075"," miss","stina","palsson",3,"Female","Minor",2015
+"377","376","YES","Meyer, Mrs. Edgar Joseph (Leila Saks);","1","1","82.1708"," mrs","edgar","meyer",30,"Female","Adult",1988
+"378","377","YES","Landergren, Miss. Aurora Adelia;22","3","0","7.25"," miss","aurora","landergren",22,"Female","Adult",1996
+"379","378","NO","Widener, Mr. Harry Elkins;27","1","0","211.5"," mr","harry","widener",27,"Male","Adult",1991
+"380","379","NO","Betros, Mr. Tannous;20","3","0","4.0125"," mr","tannous","betros",20,"Male","Adult",1998
+"381","380","NO","Gustafsson, Mr. Karl Gideon;19","3","0","7.775"," mr","karl","gustafsson",19,"Male","Adult",1999
+"382","381","YES","Bidois, Miss. Rosalie;42","1","0","227.525"," miss","rosalie","bidois",42,"Female","Adult",1976
+"383","382","YES","Nakid, Miss. Maria (""Mary"");1","3","0","15.7417"," miss","maria","nakid",1,"Female","Minor",2017
+"384","383","NO","Tikkanen, Mr. Juho;32","3","0","7.925"," mr","juho","tikkanen",32,"Male","Adult",1986
+"385","384","YES","Holverson, Mrs. Alexander Oskar (Mary Aline Towner);35","1","1","52"," mrs","alexander","holverson",35,"Female","Adult",1983
+"386","385","NO","Plotcharsky, Mr. Vasil;","3","0","7.8958"," mr","vasil","plotcharsky",30,"Male","Adult",1988
+"387","386","NO","Davies, Mr. Charles Henry;18","2","0","73.5"," mr","charles","davies",18,"Male","Minor",2000
+"388","387","NO","Goodwin, Master. Sidney Leonard;1","3","5","46.9"," master","sidney","goodwin",1,"Male","Minor",2017
+"389","388","YES","Buss, Miss. Kate;36","2","0","13"," miss","kate","buss",36,"Female","Adult",1982
+"390","389","NO","Sadlier, Mr. Matthew;","3","0","7.7292"," mr","matthew","sadlier",30,"Male","Adult",1988
+"391","390","YES","Lehmann, Miss. Bertha;17","2","0","12"," miss","bertha","lehmann",17,"Female","Minor",2001
+"392","391","YES","Carter, Mr. William Ernest;36","1","1","120"," mr","william","carter",36,"Male","Adult",1982
+"393","392","YES","Jansson, Mr. Carl Olof;21","3","0","7.7958"," mr","carl","jansson",21,"Male","Adult",1997
+"394","393","NO","Gustafsson, Mr. Johan Birger;28","3","2","7.925"," mr","johan","gustafsson",28,"Male","Adult",1990
+"395","394","YES","Newell, Miss. Marjorie;23","1","1","113.275"," miss","marjorie","newell",23,"Female","Adult",1995
+"396","395","YES","Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson);24","3","0","16.7"," mrs","hjalmar","sandstrom",24,"Female","Adult",1994
+"397","396","NO","Johansson, Mr. Erik;22","3","0","7.7958"," mr","erik","johansson",22,"Male","Adult",1996
+"398","397","NO","Olsson, Miss. Elina;31","3","0","7.8542"," miss","elina","olsson",31,"Female","Adult",1987
+"399","398","NO","McKane, Mr. Peter David;46","2","0","26"," mr","peter","mckane",46,"Male","Adult",1972
+"400","399","NO","Pain, Dr. Alfred;23","2","0","10.5"," dr","alfred","pain",23,"Male","Adult",1995
+"401","400","YES","Trout, Mrs. William H (Jessie L);28","2","0","12.65"," mrs","william","trout",28,"Female","Adult",1990
+"402","401","YES","Niskanen, Mr. Juha;39","3","0","7.925"," mr","juha","niskanen",39,"Male","Adult",1979
+"403","402","NO","Adams, Mr. John;26","3","0","8.05"," mr","john","adams",26,"Male","Adult",1992
+"404","403","NO","Jussila, Miss. Mari Aina;21","3","1","9.825"," miss","mari","jussila",21,"Female","Adult",1997
+"405","404","NO","Hakkarainen, Mr. Pekka Pietari;28","3","1","15.85"," mr","pekka","hakkarainen",28,"Male","Adult",1990
+"406","405","NO","Oreskovic, Miss. Marija;20","3","0","8.6625"," miss","marija","oreskovic",20,"Female","Adult",1998
+"407","406","NO","Gale, Mr. Shadrach;34","2","1","21"," mr","shadrach","gale",34,"Male","Adult",1984
+"408","407","NO","Widegren, Mr. Carl/Charles Peter;51","3","0","7.75"," mr","carl/charles","widegren",51,"Male","Adult",1967
+"409","408","YES","Richards, Master. William Rowe;3","2","1","18.75"," master","william","richards",3,"Male","Minor",2015
+"410","409","NO","Birkeland, Mr. Hans Martin Monsen;21","3","0","7.775"," mr","hans","birkeland",21,"Male","Adult",1997
+"411","410","NO","Lefebre, Miss. Ida;","3","3","25.4667"," miss","ida","lefebre",30,"Female","Adult",1988
+"412","411","NO","Sdycoff, Mr. Todor;","3","0","7.8958"," mr","todor","sdycoff",30,"Male","Adult",1988
+"413","412","NO","Hart, Mr. Henry;","3","0","6.8583"," mr","henry","hart",30,"Male","Adult",1988
+"414","413","YES","Minahan, Miss. Daisy E;33","1","1","90"," miss","daisy","minahan",33,"Female","Adult",1985
+"415","414","NO","Cunningham, Mr. Alfred Fleming;","2","0","0"," mr","alfred","cunningham",30,"Male","Adult",1988
+"416","415","YES","Sundman, Mr. Johan Julian;44","3","0","7.925"," mr","johan","sundman",44,"Male","Adult",1974
+"417","416","NO","Meek, Mrs. Thomas (Annie Louise Rowley);","3","0","8.05"," mrs","thomas","meek",30,"Female","Adult",1988
+"418","417","YES","Drew, Mrs. James Vivian (Lulu Thorne Christian);34","2","1","32.5"," mrs","james","drew",34,"Female","Adult",1984
+"419","418","YES","Silven, Miss. Lyyli Karoliina;18","2","0","13"," miss","lyyli","silven",18,"Female","Minor",2000
+"420","419","NO","Matthews, Mr. William John;30","2","0","13"," mr","william","matthews",30,"Male","Adult",1988
+"421","420","NO","Van Impe, Miss. Catharina;10","3","0","24.15"," miss","catharina","van impe",10,"Female","Minor",2008
+"422","421","NO","Gheorgheff, Mr. Stanio;","3","0","7.8958"," mr","stanio","gheorgheff",30,"Male","Adult",1988
+"423","422","NO","Charters, Mr. David;21","3","0","7.7333"," mr","david","charters",21,"Male","Adult",1997
+"424","423","NO","Zimmerman, Mr. Leo;29","3","0","7.875"," mr","leo","zimmerman",29,"Male","Adult",1989
+"425","424","NO","Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren);28","3","1","14.4"," mrs","ernst","danbom",28,"Female","Adult",1990
+"426","425","NO","Rosblom, Mr. Viktor Richard;18","3","1","20.2125"," mr","viktor","rosblom",18,"Male","Minor",2000
+"427","426","NO","Wiseman, Mr. Phillippe;","3","0","7.25"," mr","phillippe","wiseman",30,"Male","Adult",1988
+"428","427","YES","Clarke, Mrs. Charles V (Ada Maria Winfield);28","2","1","26"," mrs","charles","clarke",28,"Female","Adult",1990
+"429","428","YES","Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"");19","2","0","26"," miss","kate","phillips",19,"Female","Adult",1999
+"430","429","NO","Flynn, Mr. James;","3","0","7.75"," mr","james","flynn",30,"Male","Adult",1988
+"431","430","YES","Pickard, Mr. Berk (Berk Trembisky);32","3","0","8.05"," mr","berk","pickard",32,"Male","Adult",1986
+"432","431","YES","Bjornstrom-Steffansson, Mr. Mauritz Hakan;28","1","0","26.55"," mr","mauritz","bjornstrom-steffansson",28,"Male","Adult",1990
+"433","432","YES","Thorneycroft, Mrs. Percival (Florence Kate White);","3","1","16.1"," mrs","percival","thorneycroft",30,"Female","Adult",1988
+"434","433","YES","Louch, Mrs. Charles Alexander (Alice Adelaide Slow);42","2","1","26"," mrs","charles","louch",42,"Female","Adult",1976
+"435","434","NO","Kallio, Mr. Nikolai Erland;17","3","0","7.125"," mr","nikolai","kallio",17,"Male","Minor",2001
+"436","435","NO","Silvey, Mr. William Baird;50","1","1","55.9"," mr","william","silvey",50,"Male","Adult",1968
+"437","436","YES","Carter, Miss. Lucile Polk;14","1","1","120"," miss","lucile","carter",14,"Female","Minor",2004
+"438","437","NO","Ford, Miss. Doolina Margaret ""Daisy"";21","3","2","34.375"," miss","doolina","ford",21,"Female","Adult",1997
+"439","438","YES","Richards, Mrs. Sidney (Emily Hocking);24","2","2","18.75"," mrs","sidney","richards",24,"Female","Adult",1994
+"440","439","NO","Fortune, Mr. Mark;64","1","1","263"," mr","mark","fortune",64,"Male","Adult",1954
+"441","440","NO","Kvillner, Mr. Johan Henrik Johannesson;31","2","0","10.5"," mr","johan","kvillner",31,"Male","Adult",1987
+"442","441","YES","Hart, Mrs. Benjamin (Esther Ada Bloomfield);45","2","1","26.25"," mrs","benjamin","hart",45,"Female","Adult",1973
+"443","442","NO","Hampe, Mr. Leon;20","3","0","9.5"," mr","leon","hampe",20,"Male","Adult",1998
+"444","443","NO","Petterson, Mr. Johan Emil;25","3","1","7.775"," mr","johan","petterson",25,"Male","Adult",1993
+"445","444","YES","Reynaldo, Ms. Encarnacion;28","2","0","13"," ms","encarnacion","reynaldo",28,"Male","Adult",1990
+"446","445","YES","Johannesen-Bratthammer, Mr. Bernt;","3","0","8.1125"," mr","bernt","johannesen-bratthammer",30,"Male","Adult",1988
+"447","446","YES","Dodge, Master. Washington;4","1","0","81.8583"," master","washington","dodge",4,"Male","Minor",2014
+"448","447","YES","Mellinger, Miss. Madeleine Violet;13","2","0","19.5"," miss","madeleine","mellinger",13,"Female","Minor",2005
+"449","448","YES","Seward, Mr. Frederic Kimber;34","1","0","26.55"," mr","frederic","seward",34,"Male","Adult",1984
+"450","449","YES","Baclini, Miss. Marie Catherine;5","3","2","19.2583"," miss","marie","baclini",5,"Female","Minor",2013
+"451","450","YES","Peuchen, Major. Arthur Godfrey;52","1","0","30.5"," major","arthur","peuchen",52,"Male","Adult",1966
+"452","451","NO","West, Mr. Edwy Arthur;36","2","1","27.75"," mr","edwy","west",36,"Male","Adult",1982
+"453","452","NO","Hagland, Mr. Ingvald Olai Olsen;","3","1","19.9667"," mr","ingvald","hagland",30,"Male","Adult",1988
+"454","453","NO","Foreman, Mr. Benjamin Laventall;30","1","0","27.75"," mr","benjamin","foreman",30,"Male","Adult",1988
+"455","454","YES","Goldenberg, Mr. Samuel L;49","1","1","89.1042"," mr","samuel","goldenberg",49,"Male","Adult",1969
+"456","455","NO","Peduzzi, Mr. Joseph;","3","0","8.05"," mr","joseph","peduzzi",30,"Male","Adult",1988
+"457","456","YES","Jalsevac, Mr. Ivan;29","3","0","7.8958"," mr","ivan","jalsevac",29,"Male","Adult",1989
+"458","457","NO","Millet, Mr. Francis Davis;65","1","0","26.55"," mr","francis","millet",65,"Male","Adult",1953
+"459","458","YES","Kenyon, Mrs. Frederick R (Marion);","1","1","51.8625"," mrs","frederick","kenyon",30,"Female","Adult",1988
+"460","459","YES","Toomey, Miss. Ellen;50","2","0","10.5"," miss","ellen","toomey",50,"Female","Adult",1968
+"461","460","NO","O'Connor, Mr. Maurice;","3","0","7.75"," mr","maurice","o'connor",30,"Male","Adult",1988
+"462","461","YES","Anderson, Mr. Harry;48","1","0","26.55"," mr","harry","anderson",48,"Male","Adult",1970
+"463","462","NO","Morley, Mr. William;34","3","0","8.05"," mr","william","morley",34,"Male","Adult",1984
+"464","463","NO","Gee, Mr. Arthur H;47","1","0","38.5"," mr","arthur","gee",47,"Male","Adult",1971
+"465","464","NO","Milling, Mr. Jacob Christian;48","2","0","13"," mr","jacob","milling",48,"Male","Adult",1970
+"466","465","NO","Maisner, Mr. Simon;","3","0","8.05"," mr","simon","maisner",30,"Male","Adult",1988
+"467","466","NO","Goncalves, Mr. Manuel Estanslas;38","3","0","7.05"," mr","manuel","goncalves",38,"Male","Adult",1980
+"468","467","NO","Campbell, Mr. William;","2","0","0"," mr","william","campbell",30,"Male","Adult",1988
+"469","468","NO","Smart, Mr. John Montgomery;56","1","0","26.55"," mr","john","smart",56,"Male","Adult",1962
+"470","469","NO","Scanlan, Mr. James;","3","0","7.725"," mr","james","scanlan",30,"Male","Adult",1988
+"471","470","YES","Baclini, Miss. Helene Barbara;0.75","3","2","19.2583"," miss","helene","baclini",0.75,"Female","Minor",2017
+"472","471","NO","Keefe, Mr. Arthur;","3","0","7.25"," mr","arthur","keefe",30,"Male","Adult",1988
+"473","472","NO","Cacic, Mr. Luka;38","3","0","8.6625"," mr","luka","cacic",38,"Male","Adult",1980
+"474","473","YES","West, Mrs. Edwy Arthur (Ada Mary Worth);33","2","1","27.75"," mrs","edwy","west",33,"Female","Adult",1985
+"475","474","YES","Jerwan, Mrs. Amin S (Marie Marthe Thuillard);23","2","0","13.7917"," mrs","amin","jerwan",23,"Female","Adult",1995
+"476","475","NO","Strandberg, Miss. Ida Sofia;22","3","0","9.8375"," miss","ida","strandberg",22,"Female","Adult",1996
+"477","476","NO","Clifford, Mr. George Quincy;","1","0","52"," mr","george","clifford",30,"Male","Adult",1988
+"478","477","NO","Renouf, Mr. Peter Henry;34","2","1","21"," mr","peter","renouf",34,"Male","Adult",1984
+"479","478","NO","Braund, Mr. Lewis Richard;29","3","1","7.0458"," mr","lewis","braund",29,"Male","Adult",1989
+"480","479","NO","Karlsson, Mr. Nils August;22","3","0","7.5208"," mr","nils","karlsson",22,"Male","Adult",1996
+"481","480","YES","Hirvonen, Miss. Hildur E;2","3","0","12.2875"," miss","hildur","hirvonen",2,"Female","Minor",2016
+"482","481","NO","Goodwin, Master. Harold Victor;9","3","5","46.9"," master","harold","goodwin",9,"Male","Minor",2009
+"483","482","NO","Frost, Mr. Anthony Wood ""Archie"";","2","0","0"," mr","anthony","frost",30,"Male","Adult",1988
+"484","483","NO","Rouse, Mr. Richard Henry;50","3","0","8.05"," mr","richard","rouse",50,"Male","Adult",1968
+"485","484","YES","Turkula, Mrs. (Hedwig);63","3","0","9.5875"," mrs","(hedwig)","turkula",63,"Female","Adult",1955
+"486","485","YES","Bishop, Mr. Dickinson H;25","1","1","91.0792"," mr","dickinson","bishop",25,"Male","Adult",1993
+"487","486","NO","Lefebre, Miss. Jeannie;","3","3","25.4667"," miss","jeannie","lefebre",30,"Female","Adult",1988
+"488","487","YES","Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby);35","1","1","90"," mrs","frederick","hoyt",35,"Female","Adult",1983
+"489","488","NO","Kent, Mr. Edward Austin;58","1","0","29.7"," mr","edward","kent",58,"Male","Adult",1960
+"490","489","NO","Somerton, Mr. Francis William;30","3","0","8.05"," mr","francis","somerton",30,"Male","Adult",1988
+"491","490","YES","Coutts, Master. Eden Leslie ""Neville"";9","3","1","15.9"," master","eden","coutts",9,"Male","Minor",2009
+"492","491","NO","Hagland, Mr. Konrad Mathias Reiersen;","3","1","19.9667"," mr","konrad","hagland",30,"Male","Adult",1988
+"493","492","NO","Windelov, Mr. Einar;21","3","0","7.25"," mr","einar","windelov",21,"Male","Adult",1997
+"494","493","NO","Molson, Mr. Harry Markland;55","1","0","30.5"," mr","harry","molson",55,"Male","Adult",1963
+"495","494","NO","Artagaveytia, Mr. Ramon;71","1","0","49.5042"," mr","ramon","artagaveytia",71,"Male","Adult",1947
+"496","495","NO","Stanley, Mr. Edward Roland;21","3","0","8.05"," mr","edward","stanley",21,"Male","Adult",1997
+"497","496","NO","Yousseff, Mr. Gerious;","3","0","14.4583"," mr","gerious","yousseff",30,"Male","Adult",1988
+"498","497","YES","Eustis, Miss. Elizabeth Mussey;54","1","1","78.2667"," miss","elizabeth","eustis",54,"Female","Adult",1964
+"499","498","NO","Shellard, Mr. Frederick William;","3","0","15.1"," mr","frederick","shellard",30,"Male","Adult",1988
+"500","499","NO","Allison, Mrs. Hudson J C (Bessie Waldo Daniels);25","1","1","151.55"," mrs","hudson","allison",25,"Female","Adult",1993
+"501","500","NO","Svensson, Mr. Olof;24","3","0","7.7958"," mr","olof","svensson",24,"Male","Adult",1994
+"502","501","NO","Calic, Mr. Petar;17","3","0","8.6625"," mr","petar","calic",17,"Male","Minor",2001
+"503","502","NO","Canavan, Miss. Mary;21","3","0","7.75"," miss","mary","canavan",21,"Female","Adult",1997
+"504","503","NO","O'Sullivan, Miss. Bridget Mary;","3","0","7.6292"," miss","bridget","o'sullivan",30,"Female","Adult",1988
+"505","504","NO","Laitinen, Miss. Kristina Sofia;37","3","0","9.5875"," miss","kristina","laitinen",37,"Female","Adult",1981
+"506","505","YES","Maioni, Miss. Roberta;16","1","0","86.5"," miss","roberta","maioni",16,"Female","Minor",2002
+"507","506","NO","Penasco y Castellana, Mr. Victor de Satode;18","1","1","108.9"," mr","victor","penasco y castellana",18,"Male","Minor",2000
+"508","507","YES","Quick, Mrs. Frederick Charles (Jane Richards);33","2","0","26"," mrs","frederick","quick",33,"Female","Adult",1985
+"509","508","YES","Bradley, Mr. George (""George Arthur Brayton"");","1","0","26.55"," mr","george","bradley",30,"Male","Adult",1988
+"510","509","NO","Olsen, Mr. Henry Margido;28","3","0","22.525"," mr","henry","olsen",28,"Male","Adult",1990
+"511","510","YES","Lang, Mr. Fang;26","3","0","56.4958"," mr","fang","lang",26,"Male","Adult",1992
+"512","511","YES","Daly, Mr. Eugene Patrick;29","3","0","7.75"," mr","eugene","daly",29,"Male","Adult",1989
+"513","512","NO","Webber, Mr. James;","3","0","8.05"," mr","james","webber",30,"Male","Adult",1988
+"514","513","YES","McGough, Mr. James Robert;36","1","0","26.2875"," mr","james","mcgough",36,"Male","Adult",1982
+"515","514","YES","Rothschild, Mrs. Martin (Elizabeth L. Barrett);54","1","1","59.4"," mrs","martin","rothschild",54,"Female","Adult",1964
+"516","515","NO","Coleff, Mr. Satio;24","3","0","7.4958"," mr","satio","coleff",24,"Male","Adult",1994
+"517","516","NO","Walker, Mr. William Anderson;47","1","0","34.0208"," mr","william","walker",47,"Male","Adult",1971
+"518","517","YES","Lemore, Mrs. (Amelia Milley);34","2","0","10.5"," mrs","(amelia","lemore",34,"Female","Adult",1984
+"519","518","NO","Ryan, Mr. Patrick;","3","0","24.15"," mr","patrick","ryan",30,"Male","Adult",1988
+"520","519","YES","Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes);36","2","1","26"," mrs","william","angle",36,"Female","Adult",1982
+"521","520","NO","Pavlovic, Mr. Stefo;32","3","0","7.8958"," mr","stefo","pavlovic",32,"Male","Adult",1986
+"522","521","YES","Perreault, Miss. Anne;30","1","0","93.5"," miss","anne","perreault",30,"Female","Adult",1988
+"523","522","NO","Vovk, Mr. Janko;22","3","0","7.8958"," mr","janko","vovk",22,"Male","Adult",1996
+"524","523","NO","Lahoud, Mr. Sarkis;","3","0","7.225"," mr","sarkis","lahoud",30,"Male","Adult",1988
+"525","524","YES","Hippach, Mrs. Louis Albert (Ida Sophia Fischer);44","1","0","57.9792"," mrs","louis","hippach",44,"Female","Adult",1974
+"526","525","NO","Kassem, Mr. Fared;","3","0","7.2292"," mr","fared","kassem",30,"Male","Adult",1988
+"527","526","NO","Farrell, Mr. James;40.5","3","0","7.75"," mr","james","farrell",40.5,"Male","Adult",1977
+"528","527","YES","Ridsdale, Miss. Lucy;50","2","0","10.5"," miss","lucy","ridsdale",50,"Female","Adult",1968
+"529","528","NO","Farthing, Mr. John;","1","0","221.7792"," mr","john","farthing",30,"Male","Adult",1988
+"530","529","NO","Salonen, Mr. Johan Werner;39","3","0","7.925"," mr","johan","salonen",39,"Male","Adult",1979
+"531","530","NO","Hocking, Mr. Richard George;23","2","2","11.5"," mr","richard","hocking",23,"Male","Adult",1995
+"532","531","YES","Quick, Miss. Phyllis May;2","2","1","26"," miss","phyllis","quick",2,"Female","Minor",2016
+"533","532","NO","Toufik, Mr. Nakli;","3","0","7.2292"," mr","nakli","toufik",30,"Male","Adult",1988
+"534","533","NO","Elias, Mr. Joseph Jr;17","3","1","7.2292"," mr","joseph","elias",17,"Male","Minor",2001
+"535","534","YES","Peter, Mrs. Catherine (Catherine Rizk);","3","0","22.3583"," mrs","catherine","peter",30,"Female","Adult",1988
+"536","535","NO","Cacic, Miss. Marija;30","3","0","8.6625"," miss","marija","cacic",30,"Female","Adult",1988
+"537","536","YES","Hart, Miss. Eva Miriam;7","2","0","26.25"," miss","eva","hart",7,"Female","Minor",2011
+"538","537","NO","Butt, Major. Archibald Willingham;45","1","0","26.55"," major","archibald","butt",45,"Male","Adult",1973
+"539","538","YES","LeRoy, Miss. Bertha;30","1","0","106.425"," miss","bertha","leroy",30,"Female","Adult",1988
+"540","539","NO","Risien, Mr. Samuel Beard;","3","0","14.5"," mr","samuel","risien",30,"Male","Adult",1988
+"541","540","YES","Frolicher, Miss. Hedwig Margaritha;22","1","0","49.5"," miss","hedwig","frolicher",22,"Female","Adult",1996
+"542","541","YES","Crosby, Miss. Harriet R;36","1","0","71"," miss","harriet","crosby",36,"Female","Adult",1982
+"543","542","NO","Andersson, Miss. Ingeborg Constanzia;9","3","4","31.275"," miss","ingeborg","andersson",9,"Female","Minor",2009
+"544","543","NO","Andersson, Miss. Sigrid Elisabeth;11","3","4","31.275"," miss","sigrid","andersson",11,"Female","Minor",2007
+"545","544","YES","Beane, Mr. Edward;32","2","1","26"," mr","edward","beane",32,"Male","Adult",1986
+"546","545","NO","Douglas, Mr. Walter Donald;50","1","1","106.425"," mr","walter","douglas",50,"Male","Adult",1968
+"547","546","NO","Nicholson, Mr. Arthur Ernest;64","1","0","26"," mr","arthur","nicholson",64,"Male","Adult",1954
+"548","547","YES","Beane, Mrs. Edward (Ethel Clarke);19","2","1","26"," mrs","edward","beane",19,"Female","Adult",1999
+"549","548","YES","Padro y Manent, Mr. Julian;","2","0","13.8625"," mr","julian","padro y manent",30,"Male","Adult",1988
+"550","549","NO","Goldsmith, Mr. Frank John;33","3","1","20.525"," mr","frank","goldsmith",33,"Male","Adult",1985
+"551","550","YES","Davies, Master. John Morgan Jr;8","2","1","36.75"," master","john","davies",8,"Male","Minor",2010
+"552","551","YES","Thayer, Mr. John Borland Jr;17","1","0","110.8833"," mr","john","thayer",17,"Male","Minor",2001
+"553","552","NO","Sharp, Mr. Percival James R;27","2","0","26"," mr","percival","sharp",27,"Male","Adult",1991
+"554","553","NO","O'Brien, Mr. Timothy;","3","0","7.8292"," mr","timothy","o'brien",30,"Male","Adult",1988
+"555","554","YES","Leeni, Mr. Fahim (""Philip Zenni"");22","3","0","7.225"," mr","fahim","leeni",22,"Male","Adult",1996
+"556","555","YES","Ohman, Miss. Velin;22","3","0","7.775"," miss","velin","ohman",22,"Female","Adult",1996
+"557","556","NO","Wright, Mr. George;62","1","0","26.55"," mr","george","wright",62,"Male","Adult",1956
+"558","557","YES","Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"");48","1","1","39.6"," lady","(lucille","duff gordon",48,"Male","Adult",1970
+"559","558","NO","Robbins, Mr. Victor;","1","0","227.525"," mr","victor","robbins",30,"Male","Adult",1988
+"560","559","YES","Taussig, Mrs. Emil (Tillie Mandelbaum);39","1","1","79.65"," mrs","emil","taussig",39,"Female","Adult",1979
+"561","560","YES","de Messemaeker, Mrs. Guillaume Joseph (Emma);36","3","1","17.4"," mrs","guillaume","de messemaeker",36,"Female","Adult",1982
+"562","561","NO","Morrow, Mr. Thomas Rowan;","3","0","7.75"," mr","thomas","morrow",30,"Male","Adult",1988
+"563","562","NO","Sivic, Mr. Husein;40","3","0","7.8958"," mr","husein","sivic",40,"Male","Adult",1978
+"564","563","NO","Norman, Mr. Robert Douglas;28","2","0","13.5"," mr","robert","norman",28,"Male","Adult",1990
+"565","564","NO","Simmons, Mr. John;","3","0","8.05"," mr","john","simmons",30,"Male","Adult",1988
+"566","565","NO","Meanwell, Miss. (Marion Ogden);","3","0","8.05"," miss","(marion","meanwell",30,"Female","Adult",1988
+"567","566","NO","Davies, Mr. Alfred J;24","3","2","24.15"," mr","alfred","davies",24,"Male","Adult",1994
+"568","567","NO","Stoytcheff, Mr. Ilia;19","3","0","7.8958"," mr","ilia","stoytcheff",19,"Male","Adult",1999
+"569","568","NO","Palsson, Mrs. Nils (Alma Cornelia Berglund);29","3","0","21.075"," mrs","nils","palsson",29,"Female","Adult",1989
+"570","569","NO","Doharr, Mr. Tannous;","3","0","7.2292"," mr","tannous","doharr",30,"Male","Adult",1988
+"571","570","YES","Jonsson, Mr. Carl;32","3","0","7.8542"," mr","carl","jonsson",32,"Male","Adult",1986
+"572","571","YES","Harris, Mr. George;62","2","0","10.5"," mr","george","harris",62,"Male","Adult",1956
+"573","572","YES","Appleton, Mrs. Edward Dale (Charlotte Lamson);53","1","2","51.4792"," mrs","edward","appleton",53,"Male","Adult",1965
+"574","573","YES","Flynn, Mr. John Irwin (""Irving"");36","1","0","26.3875"," mr","john","flynn",36,"Male","Adult",1982
+"575","574","YES","Kelly, Miss. Mary;","3","0","7.75"," miss","mary","kelly",30,"Female","Adult",1988
+"576","575","NO","Rush, Mr. Alfred George John;16","3","0","8.05"," mr","alfred","rush",16,"Male","Minor",2002
+"577","576","NO","Patchett, Mr. George;19","3","0","14.5"," mr","george","patchett",19,"Male","Adult",1999
+"578","577","YES","Garside, Miss. Ethel;34","2","0","13"," miss","ethel","garside",34,"Female","Adult",1984
+"579","578","YES","Silvey, Mrs. William Baird (Alice Munger);39","1","1","55.9"," mrs","william","silvey",39,"Female","Adult",1979
+"580","579","NO","Caram, Mrs. Joseph (Maria Elias);","3","1","14.4583"," mrs","joseph","caram",30,"Female","Adult",1988
+"581","580","YES","Jussila, Mr. Eiriik;32","3","0","7.925"," mr","eiriik","jussila",32,"Male","Adult",1986
+"582","581","YES","Christy, Miss. Julie Rachel;25","2","1","30"," miss","julie","christy",25,"Female","Adult",1993
+"583","582","YES","Thayer, Mrs. John Borland (Marian Longstreth Morris);39","1","1","110.8833"," mrs","john","thayer",39,"Female","Adult",1979
+"584","583","NO","Downton, Mr. William James;54","2","0","26"," mr","william","downton",54,"Male","Adult",1964
+"585","584","NO","Ross, Mr. John Hugo;36","1","0","40.125"," mr","john","ross",36,"Male","Adult",1982
+"586","585","NO","Paulner, Mr. Uscher;","3","0","8.7125"," mr","uscher","paulner",30,"Male","Adult",1988
+"587","586","YES","Taussig, Miss. Ruth;18","1","0","79.65"," miss","ruth","taussig",18,"Female","Minor",2000
+"588","587","NO","Jarvis, Mr. John Denzil;47","2","0","15"," mr","john","jarvis",47,"Male","Adult",1971
+"589","588","YES","Frolicher-Stehli, Mr. Maxmillian;60","1","1","79.2"," mr","maxmillian","frolicher-stehli",60,"Male","Adult",1958
+"590","589","NO","Gilinski, Mr. Eliezer;22","3","0","8.05"," mr","eliezer","gilinski",22,"Male","Adult",1996
+"591","590","NO","Murdlin, Mr. Joseph;","3","0","8.05"," mr","joseph","murdlin",30,"Male","Adult",1988
+"592","591","NO","Rintamaki, Mr. Matti;35","3","0","7.125"," mr","matti","rintamaki",35,"Male","Adult",1983
+"593","592","YES","Stephenson, Mrs. Walter Bertram (Martha Eustis);52","1","1","78.2667"," mrs","walter","stephenson",52,"Female","Adult",1966
+"594","593","NO","Elsbury, Mr. William James;47","3","0","7.25"," mr","william","elsbury",47,"Male","Adult",1971
+"595","594","NO","Bourke, Miss. Mary;","3","0","7.75"," miss","mary","bourke",30,"Female","Adult",1988
+"596","595","NO","Chapman, Mr. John Henry;37","2","1","26"," mr","john","chapman",37,"Male","Adult",1981
+"597","596","NO","Van Impe, Mr. Jean Baptiste;36","3","1","24.15"," mr","jean","van impe",36,"Male","Adult",1982
+"598","597","YES","Leitch, Miss. Jessie Wills;","2","0","33"," miss","jessie","leitch",30,"Female","Adult",1988
+"599","598","NO","Johnson, Mr. Alfred;49","3","0","0"," mr","alfred","johnson",49,"Male","Adult",1969
+"600","599","NO","Boulos, Mr. Hanna;","3","0","7.225"," mr","hanna","boulos",30,"Male","Adult",1988
+"601","600","YES","Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"");49","1","1","56.9292"," sir","cosmo","duff gordon",49,"Male","Adult",1969
+"602","601","YES","Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy);24","2","2","27"," mrs","sidney","jacobsohn",24,"Female","Adult",1994
+"603","602","NO","Slabenoff, Mr. Petco;","3","0","7.8958"," mr","petco","slabenoff",30,"Male","Adult",1988
+"604","603","NO","Harrington, Mr. Charles H;","1","0","42.4"," mr","charles","harrington",30,"Male","Adult",1988
+"605","604","NO","Torber, Mr. Ernst William;44","3","0","8.05"," mr","ernst","torber",44,"Male","Adult",1974
+"606","605","YES","Homer, Mr. Harry (""Mr E Haven"");35","1","0","26.55"," mr","harry","homer",35,"Male","Adult",1983
+"607","606","NO","Lindell, Mr. Edvard Bengtsson;36","3","1","15.55"," mr","edvard","lindell",36,"Male","Adult",1982
+"608","607","NO","Karaic, Mr. Milan;30","3","0","7.8958"," mr","milan","karaic",30,"Male","Adult",1988
+"609","608","YES","Daniel, Mr. Robert Williams;27","1","0","30.5"," mr","robert","daniel",27,"Male","Adult",1991
+"610","609","YES","Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue);22","2","1","41.5792"," mrs","joseph","laroche",22,"Female","Adult",1996
+"611","610","YES","Shutes, Miss. Elizabeth W;40","1","0","153.4625"," miss","elizabeth","shutes",40,"Female","Adult",1978
+"612","611","NO","Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren);39","3","1","31.275"," mrs","anders","andersson",39,"Female","Adult",1979
+"613","612","NO","Jardin, Mr. Jose Neto;","3","0","7.05"," mr","jose","jardin",30,"Male","Adult",1988
+"614","613","YES","Murphy, Miss. Margaret Jane;","3","1","15.5"," miss","margaret","murphy",30,"Female","Adult",1988
+"615","614","NO","Horgan, Mr. John;","3","0","7.75"," mr","john","horgan",30,"Male","Adult",1988
+"616","615","NO","Brocklebank, Mr. William Alfred;35","3","0","8.05"," mr","william","brocklebank",35,"Male","Adult",1983
+"617","616","YES","Herman, Miss. Alice;24","2","1","65"," miss","alice","herman",24,"Female","Adult",1994
+"618","617","NO","Danbom, Mr. Ernst Gilbert;34","3","1","14.4"," mr","ernst","danbom",34,"Male","Adult",1984
+"619","618","NO","Lobb, Mrs. William Arthur (Cordelia K Stanlick);26","3","1","16.1"," mrs","william","lobb",26,"Female","Adult",1992
+"620","619","YES","Becker, Miss. Marion Louise;4","2","2","39"," miss","marion","becker",4,"Female","Minor",2014
+"621","620","NO","Gavey, Mr. Lawrence;26","2","0","10.5"," mr","lawrence","gavey",26,"Male","Adult",1992
+"622","621","NO","Yasbeck, Mr. Antoni;27","3","1","14.4542"," mr","antoni","yasbeck",27,"Male","Adult",1991
+"623","622","YES","Kimball, Mr. Edwin Nelson Jr;42","1","1","52.5542"," mr","edwin","kimball",42,"Male","Adult",1976
+"624","623","YES","Nakid, Mr. Sahid;20","3","1","15.7417"," mr","sahid","nakid",20,"Male","Adult",1998
+"625","624","NO","Hansen, Mr. Henry Damsgaard;21","3","0","7.8542"," mr","henry","hansen",21,"Male","Adult",1997
+"626","625","NO","Bowen, Mr. David John ""Dai"";21","3","0","16.1"," mr","david","bowen",21,"Male","Adult",1997
+"627","626","NO","Sutton, Mr. Frederick;61","1","0","32.3208"," mr","frederick","sutton",61,"Male","Adult",1957
+"628","627","NO","Kirkland, Rev. Charles Leonard;57","2","0","12.35"," rev","charles","kirkland",57,"Male","Adult",1961
+"629","628","YES","Longley, Miss. Gretchen Fiske;21","1","0","77.9583"," miss","gretchen","longley",21,"Female","Adult",1997
+"630","629","NO","Bostandyeff, Mr. Guentcho;26","3","0","7.8958"," mr","guentcho","bostandyeff",26,"Male","Adult",1992
+"631","630","NO","O'Connell, Mr. Patrick D;","3","0","7.7333"," mr","patrick","o'connell",30,"Male","Adult",1988
+"632","631","YES","Barkworth, Mr. Algernon Henry Wilson;80","1","0","30"," mr","algernon","barkworth",80,"Male","Adult",1938
+"633","632","NO","Lundahl, Mr. Johan Svensson;51","3","0","7.0542"," mr","johan","lundahl",51,"Male","Adult",1967
+"634","633","YES","Stahelin-Maeglin, Dr. Max;32","1","0","30.5"," dr","max","stahelin-maeglin",32,"Male","Adult",1986
+"635","634","NO","Parr, Mr. William Henry Marsh;","1","0","0"," mr","william","parr",30,"Male","Adult",1988
+"636","635","NO","Skoog, Miss. Mabel;9","3","3","27.9"," miss","mabel","skoog",9,"Female","Minor",2009
+"637","636","YES","Davis, Miss. Mary;28","2","0","13"," miss","mary","davis",28,"Female","Adult",1990
+"638","637","NO","Leinonen, Mr. Antti Gustaf;32","3","0","7.925"," mr","antti","leinonen",32,"Male","Adult",1986
+"639","638","NO","Collyer, Mr. Harvey;31","2","1","26.25"," mr","harvey","collyer",31,"Male","Adult",1987
+"640","639","NO","Panula, Mrs. Juha (Maria Emilia Ojala);41","3","0","39.6875"," mrs","juha","panula",41,"Female","Adult",1977
+"641","640","NO","Thorneycroft, Mr. Percival;","3","1","16.1"," mr","percival","thorneycroft",30,"Male","Adult",1988
+"642","641","NO","Jensen, Mr. Hans Peder;20","3","0","7.8542"," mr","hans","jensen",20,"Male","Adult",1998
+"643","642","YES","Sagesser, Mlle. Emma;24","1","0","69.3"," mlle","emma","sagesser",24,"Male","Adult",1994
+"644","643","NO","Skoog, Miss. Margit Elizabeth;2","3","3","27.9"," miss","margit","skoog",2,"Female","Minor",2016
+"645","644","YES","Foo, Mr. Choong;","3","0","56.4958"," mr","choong","foo",30,"Male","Adult",1988
+"646","645","YES","Baclini, Miss. Eugenie;0.75","3","2","19.2583"," miss","eugenie","baclini",0.75,"Female","Minor",2017
+"647","646","YES","Harper, Mr. Henry Sleeper;48","1","1","76.7292"," mr","henry","harper",48,"Male","Adult",1970
+"648","647","NO","Cor, Mr. Liudevit;19","3","0","7.8958"," mr","liudevit","cor",19,"Male","Adult",1999
+"649","648","YES","Simonius-Blumer, Col. Oberst Alfons;56","1","0","35.5"," col","oberst","simonius-blumer",56,"Male","Adult",1962
+"650","649","NO","Willey, Mr. Edward;","3","0","7.55"," mr","edward","willey",30,"Male","Adult",1988
+"651","650","YES","Stanley, Miss. Amy Zillah Elsie;23","3","0","7.55"," miss","amy","stanley",23,"Female","Adult",1995
+"652","651","NO","Mitkoff, Mr. Mito;","3","0","7.8958"," mr","mito","mitkoff",30,"Male","Adult",1988
+"653","652","YES","Doling, Miss. Elsie;18","2","0","23"," miss","elsie","doling",18,"Female","Minor",2000
+"654","653","NO","Kalvik, Mr. Johannes Halvorsen;21","3","0","8.4333"," mr","johannes","kalvik",21,"Male","Adult",1997
+"655","654","YES","O'Leary, Miss. Hanora ""Norah"";","3","0","7.8292"," miss","hanora","o'leary",30,"Female","Adult",1988
+"656","655","NO","Hegarty, Miss. Hanora ""Nora"";18","3","0","6.75"," miss","hanora","hegarty",18,"Female","Minor",2000
+"657","656","NO","Hickman, Mr. Leonard Mark;24","2","2","73.5"," mr","leonard","hickman",24,"Male","Adult",1994
+"658","657","NO","Radeff, Mr. Alexander;","3","0","7.8958"," mr","alexander","radeff",30,"Male","Adult",1988
+"659","658","NO","Bourke, Mrs. John (Catherine);32","3","1","15.5"," mrs","john","bourke",32,"Female","Adult",1986
+"660","659","NO","Eitemiller, Mr. George Floyd;23","2","0","13"," mr","george","eitemiller",23,"Male","Adult",1995
+"661","660","NO","Newell, Mr. Arthur Webster;58","1","0","113.275"," mr","arthur","newell",58,"Male","Adult",1960
+"662","661","YES","Frauenthal, Dr. Henry William;50","1","2","133.65"," dr","henry","frauenthal",50,"Male","Adult",1968
+"663","662","NO","Badt, Mr. Mohamed;40","3","0","7.225"," mr","mohamed","badt",40,"Male","Adult",1978
+"664","663","NO","Colley, Mr. Edward Pomeroy;47","1","0","25.5875"," mr","edward","colley",47,"Male","Adult",1971
+"665","664","NO","Coleff, Mr. Peju;36","3","0","7.4958"," mr","peju","coleff",36,"Male","Adult",1982
+"666","665","YES","Lindqvist, Mr. Eino William;20","3","1","7.925"," mr","eino","lindqvist",20,"Male","Adult",1998
+"667","666","NO","Hickman, Mr. Lewis;32","2","2","73.5"," mr","lewis","hickman",32,"Male","Adult",1986
+"668","667","NO","Butler, Mr. Reginald Fenton;25","2","0","13"," mr","reginald","butler",25,"Male","Adult",1993
+"669","668","NO","Rommetvedt, Mr. Knud Paust;","3","0","7.775"," mr","knud","rommetvedt",30,"Male","Adult",1988
+"670","669","NO","Cook, Mr. Jacob;43","3","0","8.05"," mr","jacob","cook",43,"Male","Adult",1975
+"671","670","YES","Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright);","1","1","52"," mrs","elmer","taylor",30,"Female","Adult",1988
+"672","671","YES","Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford);40","2","1","39"," mrs","thomas","brown",40,"Female","Adult",1978
+"673","672","NO","Davidson, Mr. Thornton;31","1","1","52"," mr","thornton","davidson",31,"Male","Adult",1987
+"674","673","NO","Mitchell, Mr. Henry Michael;70","2","0","10.5"," mr","henry","mitchell",70,"Male","Adult",1948
+"675","674","YES","Wilhelms, Mr. Charles;31","2","0","13"," mr","charles","wilhelms",31,"Male","Adult",1987
+"676","675","NO","Watson, Mr. Ennis Hastings;","2","0","0"," mr","ennis","watson",30,"Male","Adult",1988
+"677","676","NO","Edvardsson, Mr. Gustaf Hjalmar;18","3","0","7.775"," mr","gustaf","edvardsson",18,"Male","Minor",2000
+"678","677","NO","Sawyer, Mr. Frederick Charles;24.5","3","0","8.05"," mr","frederick","sawyer",24.5,"Male","Adult",1993
+"679","678","YES","Turja, Miss. Anna Sofia;18","3","0","9.8417"," miss","anna","turja",18,"Female","Minor",2000
+"680","679","NO","Goodwin, Mrs. Frederick (Augusta Tyler);43","3","1","46.9"," mrs","frederick","goodwin",43,"Female","Adult",1975
+"681","680","YES","Cardeza, Mr. Thomas Drake Martinez;36","1","0","512.3292"," mr","thomas","cardeza",36,"Male","Adult",1982
+"682","681","NO","Peters, Miss. Katie;","3","0","8.1375"," miss","katie","peters",30,"Female","Adult",1988
+"683","682","YES","Hassab, Mr. Hammad;27","1","0","76.7292"," mr","hammad","hassab",27,"Male","Adult",1991
+"684","683","NO","Olsvigen, Mr. Thor Anderson;20","3","0","9.225"," mr","thor","olsvigen",20,"Male","Adult",1998
+"685","684","NO","Goodwin, Mr. Charles Edward;14","3","5","46.9"," mr","charles","goodwin",14,"Male","Minor",2004
+"686","685","NO","Brown, Mr. Thomas William Solomon;60","2","1","39"," mr","thomas","brown",60,"Male","Adult",1958
+"687","686","NO","Laroche, Mr. Joseph Philippe Lemercier;25","2","1","41.5792"," mr","joseph","laroche",25,"Male","Adult",1993
+"688","687","NO","Panula, Mr. Jaako Arnold;14","3","4","39.6875"," mr","jaako","panula",14,"Male","Minor",2004
+"689","688","NO","Dakic, Mr. Branko;19","3","0","10.1708"," mr","branko","dakic",19,"Male","Adult",1999
+"690","689","NO","Fischer, Mr. Eberhard Thelander;18","3","0","7.7958"," mr","eberhard","fischer",18,"Male","Minor",2000
+"691","690","YES","Madill, Miss. Georgette Alexandra;15","1","0","211.3375"," miss","georgette","madill",15,"Female","Minor",2003
+"692","691","YES","Dick, Mr. Albert Adrian;31","1","1","57"," mr","albert","dick",31,"Male","Adult",1987
+"693","692","YES","Karun, Miss. Manca;4","3","0","13.4167"," miss","manca","karun",4,"Female","Minor",2014
+"694","693","YES","Lam, Mr. Ali;","3","0","56.4958"," mr","ali","lam",30,"Male","Adult",1988
+"695","694","NO","Saad, Mr. Khalil;25","3","0","7.225"," mr","khalil","saad",25,"Male","Adult",1993
+"696","695","NO","Weir, Col. John;60","1","0","26.55"," col","john","weir",60,"Male","Adult",1958
+"697","696","NO","Chapman, Mr. Charles Henry;52","2","0","13.5"," mr","charles","chapman",52,"Male","Adult",1966
+"698","697","NO","Kelly, Mr. James;44","3","0","8.05"," mr","james","kelly",44,"Male","Adult",1974
+"699","698","YES","Mullens, Miss. Katherine ""Katie"";","3","0","7.7333"," miss","katherine","mullens",30,"Female","Adult",1988
+"700","699","NO","Thayer, Mr. John Borland;49","1","1","110.8833"," mr","john","thayer",49,"Male","Adult",1969
+"701","700","NO","Humblen, Mr. Adolf Mathias Nicolai Olsen;42","3","0","7.65"," mr","adolf","humblen",42,"Male","Adult",1976
+"702","701","YES","Astor, Mrs. John Jacob (Madeleine Talmadge Force);18","1","1","227.525"," mrs","john","astor",18,"Female","Minor",2000
+"703","702","YES","Silverthorne, Mr. Spencer Victor;35","1","0","26.2875"," mr","spencer","silverthorne",35,"Male","Adult",1983
+"704","703","NO","Barbara, Miss. Saiide;18","3","0","14.4542"," miss","saiide","barbara",18,"Female","Minor",2000
+"705","704","NO","Gallagher, Mr. Martin;25","3","0","7.7417"," mr","martin","gallagher",25,"Male","Adult",1993
+"706","705","NO","Hansen, Mr. Henrik Juul;26","3","1","7.8542"," mr","henrik","hansen",26,"Male","Adult",1992
+"707","706","NO","Morley, Mr. Henry Samuel (""Mr Henry Marshall"");39","2","0","26"," mr","henry","morley",39,"Male","Adult",1979
+"708","707","YES","Kelly, Mrs. Florence ""Fannie"";45","2","0","13.5"," mrs","florence","kelly",45,"Female","Adult",1973
+"709","708","YES","Calderhead, Mr. Edward Pennington;42","1","0","26.2875"," mr","edward","calderhead",42,"Male","Adult",1976
+"710","709","YES","Cleaver, Miss. Alice;22","1","0","151.55"," miss","alice","cleaver",22,"Female","Adult",1996
+"711","710","YES","Moubarek, Master. Halim Gonios (""William George"");","3","1","15.2458"," master","halim","moubarek",30,"Male","Adult",1988
+"712","711","YES","Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"");24","1","0","49.5042"," mlle","berthe","mayne",24,"Male","Adult",1994
+"713","712","NO","Klaber, Mr. Herman;","1","0","26.55"," mr","herman","klaber",30,"Male","Adult",1988
+"714","713","YES","Taylor, Mr. Elmer Zebley;48","1","1","52"," mr","elmer","taylor",48,"Male","Adult",1970
+"715","714","NO","Larsson, Mr. August Viktor;29","3","0","9.4833"," mr","august","larsson",29,"Male","Adult",1989
+"716","715","NO","Greenberg, Mr. Samuel;52","2","0","13"," mr","samuel","greenberg",52,"Male","Adult",1966
+"717","716","NO","Soholt, Mr. Peter Andreas Lauritz Andersen;19","3","0","7.65"," mr","peter","soholt",19,"Male","Adult",1999
+"718","717","YES","Endres, Miss. Caroline Louise;38","1","0","227.525"," miss","caroline","endres",38,"Female","Adult",1980
+"719","718","YES","Troutt, Miss. Edwina Celia ""Winnie"";27","2","0","10.5"," miss","edwina","troutt",27,"Female","Adult",1991
+"720","719","NO","McEvoy, Mr. Michael;","3","0","15.5"," mr","michael","mcevoy",30,"Male","Adult",1988
+"721","720","NO","Johnson, Mr. Malkolm Joackim;33","3","0","7.775"," mr","malkolm","johnson",33,"Male","Adult",1985
+"722","721","YES","Harper, Miss. Annie Jessie ""Nina"";6","2","0","33"," miss","annie","harper",6,"Female","Minor",2012
+"723","722","NO","Jensen, Mr. Svend Lauritz;17","3","1","7.0542"," mr","svend","jensen",17,"Male","Minor",2001
+"724","723","NO","Gillespie, Mr. William Henry;34","2","0","13"," mr","william","gillespie",34,"Male","Adult",1984
+"725","724","NO","Hodges, Mr. Henry Price;50","2","0","13"," mr","henry","hodges",50,"Male","Adult",1968
+"726","725","YES","Chambers, Mr. Norman Campbell;27","1","1","53.1"," mr","norman","chambers",27,"Male","Adult",1991
+"727","726","NO","Oreskovic, Mr. Luka;20","3","0","8.6625"," mr","luka","oreskovic",20,"Male","Adult",1998
+"728","727","YES","Renouf, Mrs. Peter Henry (Lillian Jefferys);30","2","3","21"," mrs","peter","renouf",30,"Female","Adult",1988
+"729","728","YES","Mannion, Miss. Margareth;","3","0","7.7375"," miss","margareth","mannion",30,"Female","Adult",1988
+"730","729","NO","Bryhl, Mr. Kurt Arnold Gottfrid;25","2","1","26"," mr","kurt","bryhl",25,"Male","Adult",1993
+"731","730","NO","Ilmakangas, Miss. Pieta Sofia;25","3","1","7.925"," miss","pieta","ilmakangas",25,"Female","Adult",1993
+"732","731","YES","Allen, Miss. Elisabeth Walton;29","1","0","211.3375"," miss","elisabeth","allen",29,"Female","Adult",1989
+"733","732","NO","Hassan, Mr. Houssein G N;11","3","0","18.7875"," mr","houssein","hassan",11,"Male","Minor",2007
+"734","733","NO","Knight, Mr. Robert J;","2","0","0"," mr","robert","knight",30,"Male","Adult",1988
+"735","734","NO","Berriman, Mr. William John;23","2","0","13"," mr","william","berriman",23,"Male","Adult",1995
+"736","735","NO","Troupiansky, Mr. Moses Aaron;23","2","0","13"," mr","moses","troupiansky",23,"Male","Adult",1995
+"737","736","NO","Williams, Mr. Leslie;28.5","3","0","16.1"," mr","leslie","williams",28.5,"Male","Adult",1989
+"738","737","NO","Ford, Mrs. Edward (Margaret Ann Watson);48","3","1","34.375"," mrs","edward","ford",48,"Female","Adult",1970
+"739","738","YES","Lesurer, Mr. Gustave J;35","1","0","512.3292"," mr","gustave","lesurer",35,"Male","Adult",1983
+"740","739","NO","Ivanoff, Mr. Kanio;","3","0","7.8958"," mr","kanio","ivanoff",30,"Male","Adult",1988
+"741","740","NO","Nankoff, Mr. Minko;","3","0","7.8958"," mr","minko","nankoff",30,"Male","Adult",1988
+"742","741","YES","Hawksford, Mr. Walter James;","1","0","30"," mr","walter","hawksford",30,"Male","Adult",1988
+"743","742","NO","Cavendish, Mr. Tyrell William;36","1","1","78.85"," mr","tyrell","cavendish",36,"Male","Adult",1982
+"744","743","YES","Ryerson, Miss. Susan Parker ""Suzette"";21","1","2","262.375"," miss","susan","ryerson",21,"Female","Adult",1997
+"745","744","NO","McNamee, Mr. Neal;24","3","1","16.1"," mr","neal","mcnamee",24,"Male","Adult",1994
+"746","745","YES","Stranden, Mr. Juho;31","3","0","7.925"," mr","juho","stranden",31,"Male","Adult",1987
+"747","746","NO","Crosby, Capt. Edward Gifford;70","1","1","71"," capt","edward","crosby",70,"Male","Adult",1948
+"748","747","NO","Abbott, Mr. Rossmore Edward;16","3","1","20.25"," mr","rossmore","abbott",16,"Male","Minor",2002
+"749","748","YES","Sinkkonen, Miss. Anna;30","2","0","13"," miss","anna","sinkkonen",30,"Female","Adult",1988
+"750","749","NO","Marvin, Mr. Daniel Warner;19","1","1","53.1"," mr","daniel","marvin",19,"Male","Adult",1999
+"751","750","NO","Connaghton, Mr. Michael;31","3","0","7.75"," mr","michael","connaghton",31,"Male","Adult",1987
+"752","751","YES","Wells, Miss. Joan;4","2","1","23"," miss","joan","wells",4,"Female","Minor",2014
+"753","752","YES","Moor, Master. Meier;6","3","0","12.475"," master","meier","moor",6,"Male","Minor",2012
+"754","753","NO","Vande Velde, Mr. Johannes Joseph;33","3","0","9.5"," mr","johannes","vande velde",33,"Male","Adult",1985
+"755","754","NO","Jonkoff, Mr. Lalio;23","3","0","7.8958"," mr","lalio","jonkoff",23,"Male","Adult",1995
+"756","755","YES","Herman, Mrs. Samuel (Jane Laver);48","2","1","65"," mrs","samuel","herman",48,"Female","Adult",1970
+"757","756","YES","Hamalainen, Master. Viljo;0.67","2","1","14.5"," master","viljo","hamalainen",0.67,"Male","Minor",2017
+"758","757","NO","Carlsson, Mr. August Sigfrid;28","3","0","7.7958"," mr","august","carlsson",28,"Male","Adult",1990
+"759","758","NO","Bailey, Mr. Percy Andrew;18","2","0","11.5"," mr","percy","bailey",18,"Male","Minor",2000
+"760","759","NO","Theobald, Mr. Thomas Leonard;34","3","0","8.05"," mr","thomas","theobald",34,"Male","Adult",1984
+"761","760","YES","Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards);33","1","0","86.5"," th","countess.","rothes",33,"Female","Adult",1985
+"762","761","NO","Garfirth, Mr. John;","3","0","14.5"," mr","john","garfirth",30,"Male","Adult",1988
+"763","762","NO","Nirva, Mr. Iisakki Antino Aijo;41","3","0","7.125"," mr","iisakki","nirva",41,"Male","Adult",1977
+"764","763","YES","Barah, Mr. Hanna Assi;20","3","0","7.2292"," mr","hanna","barah",20,"Male","Adult",1998
+"765","764","YES","Carter, Mrs. William Ernest (Lucile Polk);36","1","1","120"," mrs","william","carter",36,"Female","Adult",1982
+"766","765","NO","Eklund, Mr. Hans Linus;16","3","0","7.775"," mr","hans","eklund",16,"Male","Minor",2002
+"767","766","YES","Hogeboom, Mrs. John C (Anna Andrews);51","1","1","77.9583"," mrs","john","hogeboom",51,"Female","Adult",1967
+"768","767","NO","Brewe, Dr. Arthur Jackson;","1","0","39.6"," dr","arthur","brewe",30,"Male","Adult",1988
+"769","768","NO","Mangan, Miss. Mary;30.5","3","0","7.75"," miss","mary","mangan",30.5,"Female","Adult",1987
+"770","769","NO","Moran, Mr. Daniel J;","3","1","24.15"," mr","daniel","moran",30,"Male","Adult",1988
+"771","770","NO","Gronnestad, Mr. Daniel Danielsen;32","3","0","8.3625"," mr","daniel","gronnestad",32,"Male","Adult",1986
+"772","771","NO","Lievens, Mr. Rene Aime;24","3","0","9.5"," mr","rene","lievens",24,"Male","Adult",1994
+"773","772","NO","Jensen, Mr. Niels Peder;48","3","0","7.8542"," mr","niels","jensen",48,"Male","Adult",1970
+"774","773","NO","Mack, Mrs. (Mary);57","2","0","10.5"," mrs","(mary)","mack",57,"Female","Adult",1961
+"775","774","NO","Elias, Mr. Dibo;","3","0","7.225"," mr","dibo","elias",30,"Male","Adult",1988
+"776","775","YES","Hocking, Mrs. Elizabeth (Eliza Needs);54","2","1","23"," mrs","elizabeth","hocking",54,"Female","Adult",1964
+"777","776","NO","Myhrman, Mr. Pehr Fabian Oliver Malkolm;18","3","0","7.75"," mr","pehr","myhrman",18,"Male","Minor",2000
+"778","777","NO","Tobin, Mr. Roger;","3","0","7.75"," mr","roger","tobin",30,"Male","Adult",1988
+"779","778","YES","Emanuel, Miss. Virginia Ethel;5","3","0","12.475"," miss","virginia","emanuel",5,"Female","Minor",2013
+"780","779","NO","Kilgannon, Mr. Thomas J;","3","0","7.7375"," mr","thomas","kilgannon",30,"Male","Adult",1988
+"781","780","YES","Robert, Mrs. Edward Scott (Elisabeth Walton McMillan);43","1","0","211.3375"," mrs","edward","robert",43,"Female","Adult",1975
+"782","781","YES","Ayoub, Miss. Banoura;13","3","0","7.2292"," miss","banoura","ayoub",13,"Female","Minor",2005
+"783","782","YES","Dick, Mrs. Albert Adrian (Vera Gillespie);17","1","1","57"," mrs","albert","dick",17,"Female","Minor",2001
+"784","783","NO","Long, Mr. Milton Clyde;29","1","0","30"," mr","milton","long",29,"Male","Adult",1989
+"785","784","NO","Johnston, Mr. Andrew G;","3","1","23.45"," mr","andrew","johnston",30,"Male","Adult",1988
+"786","785","NO","Ali, Mr. William;25","3","0","7.05"," mr","william","ali",25,"Male","Adult",1993
+"787","786","NO","Harmer, Mr. Abraham (David Lishin);25","3","0","7.25"," mr","abraham","harmer",25,"Male","Adult",1993
+"788","787","YES","Sjoblom, Miss. Anna Sofia;18","3","0","7.4958"," miss","anna","sjoblom",18,"Female","Minor",2000
+"789","788","NO","Rice, Master. George Hugh;8","3","4","29.125"," master","george","rice",8,"Male","Minor",2010
+"790","789","YES","Dean, Master. Bertram Vere;1","3","1","20.575"," master","bertram","dean",1,"Male","Minor",2017
+"791","790","NO","Guggenheim, Mr. Benjamin;46","1","0","79.2"," mr","benjamin","guggenheim",46,"Male","Adult",1972
+"792","791","NO","Keane, Mr. Andrew ""Andy"";","3","0","7.75"," mr","andrew","keane",30,"Male","Adult",1988
+"793","792","NO","Gaskell, Mr. Alfred;16","2","0","26"," mr","alfred","gaskell",16,"Male","Minor",2002
+"794","793","NO","Sage, Miss. Stella Anna;","3","8","69.55"," miss","stella","sage",30,"Female","Adult",1988
+"795","794","NO","Hoyt, Mr. William Fisher;","1","0","30.6958"," mr","william","hoyt",30,"Male","Adult",1988
+"796","795","NO","Dantcheff, Mr. Ristiu;25","3","0","7.8958"," mr","ristiu","dantcheff",25,"Male","Adult",1993
+"797","796","NO","Otter, Mr. Richard;39","2","0","13"," mr","richard","otter",39,"Male","Adult",1979
+"798","797","YES","Leader, Dr. Alice (Farnham);49","1","0","25.9292"," dr","alice","leader",49,"Male","Adult",1969
+"799","798","YES","Osman, Mrs. Mara;31","3","0","8.6833"," mrs","mara","osman",31,"Female","Adult",1987
+"800","799","NO","Ibrahim Shawah, Mr. Yousseff;30","3","0","7.2292"," mr","yousseff","ibrahim shawah",30,"Male","Adult",1988
+"801","800","NO","Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert);30","3","1","24.15"," mrs","jean","van impe",30,"Female","Adult",1988
+"802","801","NO","Ponesell, Mr. Martin;34","2","0","13"," mr","martin","ponesell",34,"Male","Adult",1984
+"803","802","YES","Collyer, Mrs. Harvey (Charlotte Annie Tate);31","2","1","26.25"," mrs","harvey","collyer",31,"Female","Adult",1987
+"804","803","YES","Carter, Master. William Thornton II;11","1","1","120"," master","william","carter",11,"Male","Minor",2007
+"805","804","YES","Thomas, Master. Assad Alexander;0.42","3","0","8.5167"," master","assad","thomas",0.42,"Male","Minor",2017
+"806","805","YES","Hedman, Mr. Oskar Arvid;27","3","0","6.975"," mr","oskar","hedman",27,"Male","Adult",1991
+"807","806","NO","Johansson, Mr. Karl Johan;31","3","0","7.775"," mr","karl","johansson",31,"Male","Adult",1987
+"808","807","NO","Andrews, Mr. Thomas Jr;39","1","0","0"," mr","thomas","andrews",39,"Male","Adult",1979
+"809","808","NO","Pettersson, Miss. Ellen Natalia;18","3","0","7.775"," miss","ellen","pettersson",18,"Female","Minor",2000
+"810","809","NO","Meyer, Mr. August;39","2","0","13"," mr","august","meyer",39,"Male","Adult",1979
+"811","810","YES","Chambers, Mrs. Norman Campbell (Bertha Griggs);33","1","1","53.1"," mrs","norman","chambers",33,"Female","Adult",1985
+"812","811","NO","Alexander, Mr. William;26","3","0","7.8875"," mr","william","alexander",26,"Male","Adult",1992
+"813","812","NO","Lester, Mr. James;39","3","0","24.15"," mr","james","lester",39,"Male","Adult",1979
+"814","813","NO","Slemen, Mr. Richard James;35","2","0","10.5"," mr","richard","slemen",35,"Male","Adult",1983
+"815","814","NO","Andersson, Miss. Ebba Iris Alfrida;6","3","4","31.275"," miss","ebba","andersson",6,"Female","Minor",2012
+"816","815","NO","Tomlin, Mr. Ernest Portage;30.5","3","0","8.05"," mr","ernest","tomlin",30.5,"Male","Adult",1987
+"817","816","NO","Fry, Mr. Richard;","1","0","0"," mr","richard","fry",30,"Male","Adult",1988
+"818","817","NO","Heininen, Miss. Wendla Maria;23","3","0","7.925"," miss","wendla","heininen",23,"Female","Adult",1995
+"819","818","NO","Mallet, Mr. Albert;31","2","1","37.0042"," mr","albert","mallet",31,"Male","Adult",1987
+"820","819","NO","Holm, Mr. John Fredrik Alexander;43","3","0","6.45"," mr","john","holm",43,"Male","Adult",1975
+"821","820","NO","Skoog, Master. Karl Thorsten;10","3","3","27.9"," master","karl","skoog",10,"Male","Minor",2008
+"822","821","YES","Hays, Mrs. Charles Melville (Clara Jennings Gregg);52","1","1","93.5"," mrs","charles","hays",52,"Female","Adult",1966
+"823","822","YES","Lulic, Mr. Nikola;27","3","0","8.6625"," mr","nikola","lulic",27,"Male","Adult",1991
+"824","823","NO","Reuchlin, Jonkheer. John George;38","1","0","0"," jonkheer","john","reuchlin",38,"Male","Adult",1980
+"825","824","YES","Moor, Mrs. (Beila);27","3","0","12.475"," mrs","(beila)","moor",27,"Female","Adult",1991
+"826","825","NO","Panula, Master. Urho Abraham;2","3","4","39.6875"," master","urho","panula",2,"Male","Minor",2016
+"827","826","NO","Flynn, Mr. John;","3","0","6.95"," mr","john","flynn",30,"Male","Adult",1988
+"828","827","NO","Lam, Mr. Len;","3","0","56.4958"," mr","len","lam",30,"Male","Adult",1988
+"829","828","YES","Mallet, Master. Andre;1","2","0","37.0042"," master","andre","mallet",1,"Male","Minor",2017
+"830","829","YES","McCormack, Mr. Thomas Joseph;","3","0","7.75"," mr","thomas","mccormack",30,"Male","Adult",1988
+"831","830","YES","Stone, Mrs. George Nelson (Martha Evelyn);62","1","0","80"," mrs","george","stone",62,"Female","Adult",1956
+"832","831","YES","Yasbeck, Mrs. Antoni (Selini Alexander);15","3","1","14.4542"," mrs","antoni","yasbeck",15,"Female","Minor",2003
+"833","832","YES","Richards, Master. George Sibley;0.83","2","1","18.75"," master","george","richards",0.83,"Male","Minor",2017
+"834","833","NO","Saad, Mr. Amin;","3","0","7.2292"," mr","amin","saad",30,"Male","Adult",1988
+"835","834","NO","Augustsson, Mr. Albert;23","3","0","7.8542"," mr","albert","augustsson",23,"Male","Adult",1995
+"836","835","NO","Allum, Mr. Owen George;18","3","0","8.3"," mr","owen","allum",18,"Male","Minor",2000
+"837","836","YES","Compton, Miss. Sara Rebecca;39","1","1","83.1583"," miss","sara","compton",39,"Female","Adult",1979
+"838","837","NO","Pasic, Mr. Jakob;21","3","0","8.6625"," mr","jakob","pasic",21,"Male","Adult",1997
+"839","838","NO","Sirota, Mr. Maurice;","3","0","8.05"," mr","maurice","sirota",30,"Male","Adult",1988
+"840","839","YES","Chip, Mr. Chang;32","3","0","56.4958"," mr","chang","chip",32,"Male","Adult",1986
+"841","840","YES","Marechal, Mr. Pierre;","1","0","29.7"," mr","pierre","marechal",30,"Male","Adult",1988
+"842","841","NO","Alhomaki, Mr. Ilmari Rudolf;20","3","0","7.925"," mr","ilmari","alhomaki",20,"Male","Adult",1998
+"843","842","NO","Mudd, Mr. Thomas Charles;16","2","0","10.5"," mr","thomas","mudd",16,"Male","Minor",2002
+"844","843","YES","Serepeca, Miss. Augusta;30","1","0","31"," miss","augusta","serepeca",30,"Female","Adult",1988
+"845","844","NO","Lemberopolous, Mr. Peter L;34.5","3","0","6.4375"," mr","peter","lemberopolous",34.5,"Male","Adult",1983
+"846","845","NO","Culumovic, Mr. Jeso;17","3","0","8.6625"," mr","jeso","culumovic",17,"Male","Minor",2001
+"847","846","NO","Abbing, Mr. Anthony;42","3","0","7.55"," mr","anthony","abbing",42,"Male","Adult",1976
+"848","847","NO","Sage, Mr. Douglas Bullen;","3","8","69.55"," mr","douglas","sage",30,"Male","Adult",1988
+"849","848","NO","Markoff, Mr. Marin;35","3","0","7.8958"," mr","marin","markoff",35,"Male","Adult",1983
+"850","849","NO","Harper, Rev. John;28","2","0","33"," rev","john","harper",28,"Male","Adult",1990
+"851","850","YES","Goldenberg, Mrs. Samuel L (Edwiga Grabowska);","1","1","89.1042"," mrs","samuel","goldenberg",30,"Female","Adult",1988
+"852","851","NO","Andersson, Master. Sigvard Harald Elias;4","3","4","31.275"," master","sigvard","andersson",4,"Male","Minor",2014
+"853","852","NO","Svensson, Mr. Johan;74","3","0","7.775"," mr","johan","svensson",74,"Male","Adult",1944
+"854","853","NO","Boulos, Miss. Nourelain;9","3","1","15.2458"," miss","nourelain","boulos",9,"Female","Minor",2009
+"855","854","YES","Lines, Miss. Mary Conover;16","1","0","39.4"," miss","mary","lines",16,"Female","Minor",2002
+"856","855","NO","Carter, Mrs. Ernest Courtenay (Lilian Hughes);44","2","1","26"," mrs","ernest","carter",44,"Female","Adult",1974
+"857","856","YES","Aks, Mrs. Sam (Leah Rosen);18","3","0","9.35"," mrs","sam","aks",18,"Female","Minor",2000
+"858","857","YES","Wick, Mrs. George Dennick (Mary Hitchcock);45","1","1","164.8667"," mrs","george","wick",45,"Female","Adult",1973
+"859","858","YES","Daly, Mr. Peter Denis ;51","1","0","26.55"," mr","peter","daly",51,"Male","Adult",1967
+"860","859","YES","Baclini, Mrs. Solomon (Latifa Qurban);24","3","0","19.2583"," mrs","solomon","baclini",24,"Female","Adult",1994
+"861","860","NO","Razi, Mr. Raihed;","3","0","7.2292"," mr","raihed","razi",30,"Male","Adult",1988
+"862","861","NO","Hansen, Mr. Claus Peter;41","3","2","14.1083"," mr","claus","hansen",41,"Male","Adult",1977
+"863","862","NO","Giles, Mr. Frederick Edward;21","2","1","11.5"," mr","frederick","giles",21,"Male","Adult",1997
+"864","863","YES","Swift, Mrs. Frederick Joel (Margaret Welles Barron);48","1","0","25.9292"," mrs","frederick","swift",48,"Female","Adult",1970
+"865","864","NO","Sage, Miss. Dorothy Edith ""Dolly"";","3","8","69.55"," miss","dorothy","sage",30,"Female","Adult",1988
+"866","865","NO","Gill, Mr. John William;24","2","0","13"," mr","john","gill",24,"Male","Adult",1994
+"867","866","YES","Bystrom, Mrs. (Karolina);42","2","0","13"," mrs","(karolina)","bystrom",42,"Female","Adult",1976
+"868","867","YES","Duran y More, Miss. Asuncion;27","2","1","13.8583"," miss","asuncion","duran y more",27,"Female","Adult",1991
+"869","868","NO","Roebling, Mr. Washington Augustus II;31","1","0","50.4958"," mr","washington","roebling",31,"Male","Adult",1987
+"870","869","NO","van Melkebeke, Mr. Philemon;","3","0","9.5"," mr","philemon","van melkebeke",30,"Male","Adult",1988
+"871","870","YES","Johnson, Master. Harold Theodor;4","3","1","11.1333"," master","harold","johnson",4,"Male","Minor",2014
+"872","871","NO","Balkic, Mr. Cerin;26","3","0","7.8958"," mr","cerin","balkic",26,"Male","Adult",1992
+"873","872","YES","Beckwith, Mrs. Richard Leonard (Sallie Monypeny);47","1","1","52.5542"," mrs","richard","beckwith",47,"Female","Adult",1971
+"874","873","NO","Carlsson, Mr. Frans Olof;33","1","0","5"," mr","frans","carlsson",33,"Male","Adult",1985
+"875","874","NO","Vander Cruyssen, Mr. Victor;47","3","0","9"," mr","victor","vander cruyssen",47,"Male","Adult",1971
+"876","875","YES","Abelson, Mrs. Samuel (Hannah Wizosky);28","2","1","24"," mrs","samuel","abelson",28,"Female","Adult",1990
+"877","876","YES","Najib, Miss. Adele Kiamie ""Jane"";15","3","0","7.225"," miss","adele","najib",15,"Female","Minor",2003
+"878","877","NO","Gustafsson, Mr. Alfred Ossian;20","3","0","9.8458"," mr","alfred","gustafsson",20,"Male","Adult",1998
+"879","878","NO","Petroff, Mr. Nedelio;19","3","0","7.8958"," mr","nedelio","petroff",19,"Male","Adult",1999
+"880","879","NO","Laleff, Mr. Kristo;","3","0","7.8958"," mr","kristo","laleff",30,"Male","Adult",1988
+"881","880","YES","Potter, Mrs. Thomas Jr (Lily Alexenia Wilson);56","1","0","83.1583"," mrs","thomas","potter",56,"Female","Adult",1962
+"882","881","YES","Shelley, Mrs. William (Imanita Parrish Hall);25","2","0","26"," mrs","william","shelley",25,"Female","Adult",1993
+"883","882","NO","Markun, Mr. Johann;33","3","0","7.8958"," mr","johann","markun",33,"Male","Adult",1985
+"884","883","NO","Dahlberg, Miss. Gerda Ulrika;22","3","0","10.5167"," miss","gerda","dahlberg",22,"Female","Adult",1996
+"885","884","NO","Banfield, Mr. Frederick James;28","2","0","10.5"," mr","frederick","banfield",28,"Male","Adult",1990
+"886","885","NO","Sutehall, Mr. Henry Jr;25","3","0","7.05"," mr","henry","sutehall",25,"Male","Adult",1993
+"887","886","NO","Rice, Mrs. William (Margaret Norton);39","3","0","29.125"," mrs","william","rice",39,"Female","Adult",1979
+"888","887","NO","Montvila, Rev. Juozas;27","2","0","13"," rev","juozas","montvila",27,"Male","Adult",1991
+"889","888","YES","Graham, Miss. Margaret Edith;19","1","0","30"," miss","margaret","graham",19,"Female","Adult",1999
+"890","889","NO","Johnston, Miss. Catherine Helen ""Carrie"";","3","1","23.45"," miss","catherine","johnston",30,"Female","Adult",1988
+"891","890","YES","Behr, Mr. Karl Howell;26","1","0","30"," mr","karl","behr",26,"Male","Adult",1992
+"892","891","NO","Dooley, Mr. Patrick;32","3","0","7.75"," mr","patrick","dooley",32,"Male","Adult",1986
